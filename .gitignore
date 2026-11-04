@@ -1,0 +1,34 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Video masters (encoded derivatives live in public/media)
+media-src
+
+# Genius API response cache (rebuildable; src/data/genius-credits.json is the
+# tracked result). The *.local rule above does not catch it, it ends in .jsonl.
+.genius-cache*.local.jsonl
+
+# Local scratch note, not part of the deliverable
+IDEA.md

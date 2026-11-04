@@ -1,0 +1,7150 @@
+{
+ "fetched": "2026-10-29",
+ "source": "api.genius.com",
+ "artist": {
+  "id": 2521513,
+  "name": "Berky"
+ },
+ "listed": 140,
+ "credited": 140,
+ "songs": [
+  {
+   "id": 6281073,
+   "title": "Centre Court",
+   "full_title": "Centre Court by Bausa, Ufo361 & RIN",
+   "url": "https://genius.com/Bausa-ufo361-and-rin-centre-court-lyrics",
+   "release_date": "2020-12-18",
+   "release_date_for_display": "December 18, 2020",
+   "pageviews": 33985,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 35756,
+     "name": "The Cratez"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 192744,
+     "name": "Ufo361"
+    },
+    {
+     "id": 51819,
+     "name": "RIN"
+    },
+    {
+     "id": 1165427,
+     "name": "Dave (The Cratez)"
+    },
+    {
+     "id": 1165426,
+     "name": "Tim (The Cratez)"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/f3b6abb308b66246cbf55aaee3243aa3.1000x1000x1.png",
+   "album": {
+    "id": 650050,
+    "name": "100 Pro",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/c3a40c5495151aeedcf5ea75ea03a6bd.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/100-pro",
+    "released": "February 26, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=cXAETErrEko"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 6499669,
+   "title": "Madonna",
+   "full_title": "Madonna by Bausa & Apache 207",
+   "url": "https://genius.com/Bausa-and-apache-207-madonna-lyrics",
+   "release_date": "2021-02-19",
+   "release_date_for_display": "February 19, 2021",
+   "pageviews": 51784,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 1442707,
+     "name": "Miksu"
+    },
+    {
+     "id": 1038276,
+     "name": "Macloud"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 1442707,
+     "name": "Miksu"
+    },
+    {
+     "id": 1038276,
+     "name": "Macloud"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/6fba9ccc217518f792f967cbedd634db.1000x1000x1.png",
+   "album": {
+    "id": 650050,
+    "name": "100 Pro",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/c3a40c5495151aeedcf5ea75ea03a6bd.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/100-pro",
+    "released": "February 26, 2021"
+   },
+   "media": {
+    "soundcloud": "https://soundcloud.com/bausaofficial/titel-03",
+    "youtube": "https://www.youtube.com/watch?v=dKhBE_no8d8"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 6506782,
+   "title": "Paradox",
+   "full_title": "Paradox by Bausa",
+   "url": "https://genius.com/Bausa-paradox-lyrics",
+   "release_date": "2021-02-26",
+   "release_date_for_display": "February 26, 2021",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    }
+   ],
+   "art": "https://images.genius.com/c3a40c5495151aeedcf5ea75ea03a6bd.1000x1000x1.png",
+   "album": {
+    "id": 650050,
+    "name": "100 Pro",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/c3a40c5495151aeedcf5ea75ea03a6bd.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/100-pro",
+    "released": "February 26, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=i_sXeBdTTO4"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 5912961,
+   "title": "Weisst wie es ist",
+   "full_title": "Weisst wie es ist by Bausa & Sido",
+   "url": "https://genius.com/Bausa-and-sido-weisst-wie-es-ist-lyrics",
+   "release_date": "2021-02-26",
+   "release_date_for_display": "February 26, 2021",
+   "pageviews": 6924,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 4380377,
+     "name": "Bass Charity"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 12073,
+     "name": "Sido"
+    },
+    {
+     "id": 4380377,
+     "name": "Bass Charity"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    }
+   ],
+   "art": "https://images.genius.com/c3a40c5495151aeedcf5ea75ea03a6bd.1000x1000x1.png",
+   "album": {
+    "id": 650050,
+    "name": "100 Pro",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/c3a40c5495151aeedcf5ea75ea03a6bd.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/100-pro",
+    "released": "February 26, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=dY6o2_-W2A0"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 5538448,
+   "title": "Movie",
+   "full_title": "Movie by Faroon",
+   "url": "https://genius.com/Faroon-movie-lyrics",
+   "release_date": "2021-03-19",
+   "release_date_for_display": "March 19, 2021",
+   "pageviews": null,
+   "primary_artist": "Faroon",
+   "primary_artist_id": 1926207,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1632134,
+     "name": "Yung Moji"
+    },
+    {
+     "id": 2572025,
+     "name": "Dr.Q (Producer)"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1926207,
+     "name": "Faroon"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2572025,
+     "name": "Dr.Q (Producer)"
+    },
+    {
+     "id": 1632134,
+     "name": "Yung Moji"
+    }
+   ],
+   "art": "https://images.genius.com/a6b78c625bc1e4994213196fd5f2307c.1000x1000x1.png",
+   "album": {
+    "id": 708419,
+    "name": "Trap Billie Jean V.1 Mixtape",
+    "artist": "Faroon",
+    "cover": "https://images.genius.com/a6b78c625bc1e4994213196fd5f2307c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Faroon/Trap-billie-jean-v-1-mixtape",
+    "released": "March 19, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=u1DkKMsv1YI"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 6751268,
+   "title": "Heimkommen",
+   "full_title": "Heimkommen by FOURTY & Bausa",
+   "url": "https://genius.com/Fourty-and-bausa-heimkommen-lyrics",
+   "release_date": "2021-04-30",
+   "release_date_for_display": "April 30, 2021",
+   "pageviews": null,
+   "primary_artist": "FOURTY",
+   "primary_artist_id": 2006117,
+   "featured": [],
+   "producers": [
+    {
+     "id": 201354,
+     "name": "CHEKAA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2006117,
+     "name": "FOURTY"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 201354,
+     "name": "CHEKAA"
+    }
+   ],
+   "art": "https://images.genius.com/0d2b8747108139be2072ce8ce67390a7.1000x1000x1.png",
+   "album": {
+    "id": 710214,
+    "name": "Afterhour",
+    "artist": "FOURTY",
+    "cover": "https://images.genius.com/95f5ced97aca716ddbfe274873f9ed0e.1000x1000x1.png",
+    "url": "https://genius.com/albums/Fourty/Afterhour",
+    "released": "June 18, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=_89xihFJlro"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 6779904,
+   "title": "Rockstar",
+   "full_title": "Rockstar by TheDoDo & Bausa",
+   "url": "https://genius.com/Thedodo-and-bausa-rockstar-lyrics",
+   "release_date": "2021-05-07",
+   "release_date_for_display": "May 7, 2021",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/4c65d60c21e7cfbb20ba07e5f8592748.1000x1000x1.png",
+   "album": {
+    "id": 768958,
+    "name": "Traumfänger (EP)",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+    "url": "https://genius.com/albums/Thedodo/Traumfanger-ep",
+    "released": "June 4, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=UZB-Hkv2okY"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 6878152,
+   "title": "Allein",
+   "full_title": "Allein by TheDoDo",
+   "url": "https://genius.com/Thedodo-allein-lyrics",
+   "release_date": "2021-06-04",
+   "release_date_for_display": "June 4, 2021",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+   "album": {
+    "id": 768958,
+    "name": "Traumfänger (EP)",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+    "url": "https://genius.com/albums/Thedodo/Traumfanger-ep",
+    "released": "June 4, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=Yc7QG2ruEok"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 6878154,
+   "title": "Engel",
+   "full_title": "Engel by TheDoDo",
+   "url": "https://genius.com/Thedodo-engel-lyrics",
+   "release_date": "2021-06-04",
+   "release_date_for_display": "June 4, 2021",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+   "album": {
+    "id": 768958,
+    "name": "Traumfänger (EP)",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+    "url": "https://genius.com/albums/Thedodo/Traumfanger-ep",
+    "released": "June 4, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=E-HVuhzkAMM"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 6878153,
+   "title": "Gift",
+   "full_title": "Gift by TheDoDo",
+   "url": "https://genius.com/Thedodo-gift-lyrics",
+   "release_date": "2021-06-04",
+   "release_date_for_display": "June 4, 2021",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2729043,
+     "name": "Hardy X"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1401727,
+     "name": "Palazzo"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2729043,
+     "name": "Hardy X"
+    },
+    {
+     "id": 1401727,
+     "name": "Palazzo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    }
+   ],
+   "art": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+   "album": {
+    "id": 768958,
+    "name": "Traumfänger (EP)",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+    "url": "https://genius.com/albums/Thedodo/Traumfanger-ep",
+    "released": "June 4, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=LntPW0KTu2A"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 6878150,
+   "title": "La La",
+   "full_title": "La La by TheDoDo",
+   "url": "https://genius.com/Thedodo-la-la-lyrics",
+   "release_date": "2021-06-04",
+   "release_date_for_display": "June 4, 2021",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+   "album": {
+    "id": 768958,
+    "name": "Traumfänger (EP)",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+    "url": "https://genius.com/albums/Thedodo/Traumfanger-ep",
+    "released": "June 4, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=MLYrirHDmJQ"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 6878151,
+   "title": "Normal",
+   "full_title": "Normal by TheDoDo",
+   "url": "https://genius.com/Thedodo-normal-lyrics",
+   "release_date": "2021-06-04",
+   "release_date_for_display": "June 4, 2021",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2562966,
+     "name": "rozé (AUT)"
+    },
+    {
+     "id": 480727,
+     "name": "M6 & DR"
+    },
+    {
+     "id": 1401727,
+     "name": "Palazzo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 1401727,
+     "name": "Palazzo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+   "album": {
+    "id": 768958,
+    "name": "Traumfänger (EP)",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+    "url": "https://genius.com/albums/Thedodo/Traumfanger-ep",
+    "released": "June 4, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=gmuvNz30Z1c"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 6878149,
+   "title": "Traumfänger",
+   "full_title": "Traumfänger by TheDoDo",
+   "url": "https://genius.com/Thedodo-traumfanger-lyrics",
+   "release_date": "2021-06-04",
+   "release_date_for_display": "June 4, 2021",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    }
+   ],
+   "art": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+   "album": {
+    "id": 768958,
+    "name": "Traumfänger (EP)",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/1602df148133376513f4d3e5a8e3ad70.1000x1000x1.jpg",
+    "url": "https://genius.com/albums/Thedodo/Traumfanger-ep",
+    "released": "June 4, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=gnOpGPF2ADs"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 7096495,
+   "title": "Venus",
+   "full_title": "Venus by Bausa",
+   "url": "https://genius.com/Bausa-venus-lyrics",
+   "release_date": "2021-08-13",
+   "release_date_for_display": "August 13, 2021",
+   "pageviews": 5076,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/91c46205d68208748555ec7d384eb52d.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=Aeg40uGStO8"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 7194360,
+   "title": "Feuer",
+   "full_title": "Feuer by Monet192",
+   "url": "https://genius.com/Monet192-feuer-lyrics",
+   "release_date": "2021-10-01",
+   "release_date_for_display": "October 1, 2021",
+   "pageviews": null,
+   "primary_artist": "Monet192",
+   "primary_artist_id": 1218906,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1218906,
+     "name": "Monet192"
+    },
+    {
+     "id": 608227,
+     "name": "ALYNE"
+    },
+    {
+     "id": 627810,
+     "name": "Nio"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/449177825c00b7457a07e643f6fc73c4.1000x1000x1.png",
+   "album": {
+    "id": 814518,
+    "name": "Kinder der Sonne",
+    "artist": "Monet192",
+    "cover": "https://images.genius.com/63491e04ca42ec4b928a3f3a8f319146.1000x1000x1.png",
+    "url": "https://genius.com/albums/Monet192/Kinder-der-sonne",
+    "released": "November 26, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=Nlk8IGhTvzU"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 7151617,
+   "title": "Schrei",
+   "full_title": "Schrei by Apache 207",
+   "url": "https://genius.com/Apache-207-schrei-lyrics",
+   "release_date": "2021-11-05",
+   "release_date_for_display": "November 5, 2021",
+   "pageviews": null,
+   "primary_artist": "Apache 207",
+   "primary_artist_id": 1536490,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    }
+   ],
+   "art": "https://images.genius.com/60b98c3e6fea24888fbbfe9087228d4c.1000x1000x1.png",
+   "album": {
+    "id": 810566,
+    "name": "Kapitel III Thunfisch & Weinbrand (2sad2disco)",
+    "artist": "Apache 207",
+    "cover": "https://images.genius.com/60b98c3e6fea24888fbbfe9087228d4c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Apache-207/Kapitel-iii-thunfisch-weinbrand-2sad2disco",
+    "released": "November 5, 2021"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=uPCLX2CZAIA"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 7583310,
+   "title": "Andale",
+   "full_title": "Andale by DJ JEEZY (Ft. badmómzjay, Bausa & KALIM)",
+   "url": "https://genius.com/Dj-jeezy-andale-lyrics",
+   "release_date": "2022-01-14",
+   "release_date_for_display": "January 14, 2022",
+   "pageviews": 5125,
+   "primary_artist": "DJ JEEZY",
+   "primary_artist_id": 2561749,
+   "featured": [
+    "badmómzjay",
+    "Bausa",
+    "KALIM"
+   ],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2561749,
+     "name": "DJ JEEZY"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 36373,
+     "name": "KALIM"
+    },
+    {
+     "id": 4240,
+     "name": "Montez"
+    },
+    {
+     "id": 53314,
+     "name": "Takt32"
+    },
+    {
+     "id": 1861915,
+     "name": "badmómzjay"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/952a5a9b0831485a25e653ca23e00ad5.1000x1000x1.png",
+   "album": {
+    "id": 864576,
+    "name": "DJ1*",
+    "artist": "DJ JEEZY",
+    "cover": "https://images.genius.com/e654688444e172a52739a7dcca83a085.999x999x1.jpg",
+    "url": "https://genius.com/albums/Dj-jeezy/Dj1",
+    "released": "2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=wwwurN-BbnM"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 7859167,
+   "title": "Notarzt",
+   "full_title": "Notarzt by TheDoDo",
+   "url": "https://genius.com/Thedodo-notarzt-lyrics",
+   "release_date": "2022-04-01",
+   "release_date_for_display": "April 1, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    }
+   ],
+   "art": "https://images.genius.com/918c4008d0b7c713db8faeb9082fd8e3.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=v3lWoOZSJ9g"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 7903238,
+   "title": "Frühling im Viertel",
+   "full_title": "Frühling im Viertel by Bausa",
+   "url": "https://genius.com/Bausa-fruhling-im-viertel-lyrics",
+   "release_date": "2022-04-15",
+   "release_date_for_display": "April 15, 2022",
+   "pageviews": 5949,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/6f159db6ca1ce6c57870fd1e6d2a364d.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=5tPtmT_v3_o"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8041835,
+   "title": "Ich will nur dich",
+   "full_title": "Ich will nur dich by TheDoDo & Esther Graf",
+   "url": "https://genius.com/Thedodo-and-esther-graf-ich-will-nur-dich-lyrics",
+   "release_date": "2022-05-27",
+   "release_date_for_display": "May 27, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 1834362,
+     "name": "Esther Graf"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/92c28700b54b4fce50fad52796ee953c.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=ySfbZjxSKTE"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8128904,
+   "title": "Die Schöne und das Biest",
+   "full_title": "Die Schöne und das Biest by Monet192",
+   "url": "https://genius.com/Monet192-die-schone-und-das-biest-lyrics",
+   "release_date": "2022-07-01",
+   "release_date_for_display": "July 1, 2022",
+   "pageviews": null,
+   "primary_artist": "Monet192",
+   "primary_artist_id": 1218906,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1218906,
+     "name": "Monet192"
+    },
+    {
+     "id": 102285,
+     "name": "FAYAN"
+    },
+    {
+     "id": 608227,
+     "name": "ALYNE"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/6330536414a51707c802cc00342d8d93.1000x1000x1.png",
+   "album": {
+    "id": 892635,
+    "name": "Champions Club",
+    "artist": "Monet192",
+    "cover": "https://images.genius.com/6330536414a51707c802cc00342d8d93.1000x1000x1.png",
+    "url": "https://genius.com/albums/Monet192/Champions-club",
+    "released": "July 1, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=4_5C7SZRRDo"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8128900,
+   "title": "Gefährlich",
+   "full_title": "Gefährlich by Monet192 (Ft. Dardan)",
+   "url": "https://genius.com/Monet192-gefahrlich-lyrics",
+   "release_date": "2022-07-01",
+   "release_date_for_display": "July 1, 2022",
+   "pageviews": null,
+   "primary_artist": "Monet192",
+   "primary_artist_id": 1218906,
+   "featured": [
+    "Dardan"
+   ],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1218906,
+     "name": "Monet192"
+    },
+    {
+     "id": 1006113,
+     "name": "Dardan"
+    },
+    {
+     "id": 1834362,
+     "name": "Esther Graf"
+    },
+    {
+     "id": 102285,
+     "name": "FAYAN"
+    },
+    {
+     "id": 608227,
+     "name": "ALYNE"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/6330536414a51707c802cc00342d8d93.1000x1000x1.png",
+   "album": {
+    "id": 892635,
+    "name": "Champions Club",
+    "artist": "Monet192",
+    "cover": "https://images.genius.com/6330536414a51707c802cc00342d8d93.1000x1000x1.png",
+    "url": "https://genius.com/albums/Monet192/Champions-club",
+    "released": "July 1, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=2KQqUemO3xs"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8128905,
+   "title": "Ich glaub",
+   "full_title": "Ich glaub by Monet192",
+   "url": "https://genius.com/Monet192-ich-glaub-lyrics",
+   "release_date": "2022-07-01",
+   "release_date_for_display": "July 1, 2022",
+   "pageviews": null,
+   "primary_artist": "Monet192",
+   "primary_artist_id": 1218906,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1218906,
+     "name": "Monet192"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 102285,
+     "name": "FAYAN"
+    },
+    {
+     "id": 53314,
+     "name": "Takt32"
+    }
+   ],
+   "art": "https://images.genius.com/6330536414a51707c802cc00342d8d93.1000x1000x1.png",
+   "album": {
+    "id": 892635,
+    "name": "Champions Club",
+    "artist": "Monet192",
+    "cover": "https://images.genius.com/6330536414a51707c802cc00342d8d93.1000x1000x1.png",
+    "url": "https://genius.com/albums/Monet192/Champions-club",
+    "released": "July 1, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=EFfzWwlsvwg"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8155322,
+   "title": "Stell dir vor",
+   "full_title": "Stell dir vor by TheDoDo",
+   "url": "https://genius.com/Thedodo-stell-dir-vor-lyrics",
+   "release_date": "2022-07-01",
+   "release_date_for_display": "July 1, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2164185,
+     "name": "Slay Romeo"
+    },
+    {
+     "id": 1109333,
+     "name": "DLV"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2164185,
+     "name": "Slay Romeo"
+    },
+    {
+     "id": 1109333,
+     "name": "DLV"
+    }
+   ],
+   "art": "https://images.genius.com/3232c744d772ecdf4d23382a8cb7a8d7.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=vt5qw_b00rE"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8243065,
+   "title": "Dodo oder Dominic",
+   "full_title": "Dodo oder Dominic by TheDoDo",
+   "url": "https://genius.com/Thedodo-dodo-oder-dominic-lyrics",
+   "release_date": "2022-07-29",
+   "release_date_for_display": "July 29, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=_TJ40V3LZxc"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8243071,
+   "title": "Fensterbank",
+   "full_title": "Fensterbank by TheDoDo",
+   "url": "https://genius.com/Thedodo-fensterbank-lyrics",
+   "release_date": "2022-07-29",
+   "release_date_for_display": "July 29, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=yyfPep55rys"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8243066,
+   "title": "Flaschenpost",
+   "full_title": "Flaschenpost by TheDoDo",
+   "url": "https://genius.com/Thedodo-flaschenpost-lyrics",
+   "release_date": "2022-07-29",
+   "release_date_for_display": "July 29, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=8cVt4Y0ccYY"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8220614,
+   "title": "Gemischte Feelings",
+   "full_title": "Gemischte Feelings by Pajel",
+   "url": "https://genius.com/Pajel-gemischte-feelings-lyrics",
+   "release_date": "2022-07-29",
+   "release_date_for_display": "July 29, 2022",
+   "pageviews": null,
+   "primary_artist": "Pajel",
+   "primary_artist_id": 2651427,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2651427,
+     "name": "Pajel"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/bace91a0a455804a9210659cf1645c6c.1000x1000x1.png",
+   "album": {
+    "id": 957149,
+    "name": "Purple Past",
+    "artist": "Pajel",
+    "cover": "https://images.genius.com/65f8064700d272e4190c92ee7ed7a7d8.1000x1000x1.png",
+    "url": "https://genius.com/albums/Pajel/Purple-past",
+    "released": "March 17, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=Ni93CNtXAa0"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8243072,
+   "title": "Highspeed",
+   "full_title": "Highspeed by TheDoDo",
+   "url": "https://genius.com/Thedodo-highspeed-lyrics",
+   "release_date": "2022-07-29",
+   "release_date_for_display": "July 29, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=IaxbgCrcP14"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8243062,
+   "title": "Hurricane",
+   "full_title": "Hurricane by TheDoDo & Bausa",
+   "url": "https://genius.com/Thedodo-and-bausa-hurricane-lyrics",
+   "release_date": "2022-07-29",
+   "release_date_for_display": "July 29, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=e4pAt3Xk5z8"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8243068,
+   "title": "Karussell",
+   "full_title": "Karussell by TheDoDo",
+   "url": "https://genius.com/Thedodo-karussell-lyrics",
+   "release_date": "2022-07-29",
+   "release_date_for_display": "July 29, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=FLbvIEo8nNA"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8243073,
+   "title": "Plan B",
+   "full_title": "Plan B by TheDoDo",
+   "url": "https://genius.com/Thedodo-plan-b-lyrics",
+   "release_date": "2022-07-29",
+   "release_date_for_display": "July 29, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=JuuCXNH9Cso"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8243069,
+   "title": "Sag mir wo du bist",
+   "full_title": "Sag mir wo du bist by TheDoDo (Ft. Bausa)",
+   "url": "https://genius.com/Thedodo-sag-mir-wo-du-bist-lyrics",
+   "release_date": "2022-07-29",
+   "release_date_for_display": "July 29, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [
+    "Bausa"
+   ],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=PEwPNDu0IvM"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8243061,
+   "title": "Schublade zu",
+   "full_title": "Schublade zu by TheDoDo",
+   "url": "https://genius.com/Thedodo-schublade-zu-lyrics",
+   "release_date": "2022-07-29",
+   "release_date_for_display": "July 29, 2022",
+   "pageviews": null,
+   "primary_artist": "TheDoDo",
+   "primary_artist_id": 1824896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+   "album": {
+    "id": 933638,
+    "name": "Flaschenpost",
+    "artist": "TheDoDo",
+    "cover": "https://images.genius.com/5283cf422951311404d51b37d050aae6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Thedodo/Flaschenpost",
+    "released": "July 29, 2022"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=NQDz7qx-zi0"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8293513,
+   "title": "OnlyFans",
+   "full_title": "OnlyFans by Lil Zey",
+   "url": "https://genius.com/Lil-zey-onlyfans-lyrics",
+   "release_date": "2022-09-30",
+   "release_date_for_display": "September 30, 2022",
+   "pageviews": 23776,
+   "primary_artist": "Lil Zey",
+   "primary_artist_id": 1132963,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1882779,
+     "name": "Muerte Beatz"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1132963,
+     "name": "Lil Zey"
+    }
+   ],
+   "art": "https://images.genius.com/60ff44dc5cd4e20c17382b1f515a021c.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=hbFu18MgH_s"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 8584078,
+   "title": "Der Berg ruft",
+   "full_title": "Der Berg ruft by Bausa, Maxwell 187 & Joshi Mizu",
+   "url": "https://genius.com/Bausa-maxwell-187-and-joshi-mizu-der-berg-ruft-lyrics",
+   "release_date": "2022-11-25",
+   "release_date_for_display": "November 25, 2022",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 39931,
+     "name": "JUMPA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 24511,
+     "name": "Joshi Mizu"
+    },
+    {
+     "id": 1040924,
+     "name": "Maxwell 187"
+    },
+    {
+     "id": 2787050,
+     "name": "Derice"
+    },
+    {
+     "id": 39931,
+     "name": "JUMPA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/504cb951efe0251883f41cb25f8657cb.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=c91bmLbGt-g"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8603697,
+   "title": "Sofa",
+   "full_title": "Sofa by Pajel",
+   "url": "https://genius.com/Pajel-sofa-lyrics",
+   "release_date": "2022-12-16",
+   "release_date_for_display": "December 16, 2022",
+   "pageviews": null,
+   "primary_artist": "Pajel",
+   "primary_artist_id": 2651427,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2651427,
+     "name": "Pajel"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/a98ed80096aeccfcd15f4f9fc753ce60.1000x1000x1.png",
+   "album": {
+    "id": 957149,
+    "name": "Purple Past",
+    "artist": "Pajel",
+    "cover": "https://images.genius.com/65f8064700d272e4190c92ee7ed7a7d8.1000x1000x1.png",
+    "url": "https://genius.com/albums/Pajel/Purple-past",
+    "released": "March 17, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=ap8kmWm-ILM"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8901757,
+   "title": "Nachtcafé",
+   "full_title": "Nachtcafé by Berky & Bausa",
+   "url": "https://genius.com/Berky-and-bausa-nachtcafe-lyrics",
+   "release_date": "2023-03-10",
+   "release_date_for_display": "March 10, 2023",
+   "pageviews": null,
+   "primary_artist": "Berky",
+   "primary_artist_id": 2521513,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7c/c2/44/7cc2449f-b6c8-d878-2687-c513e45047c4/196589951151.jpg/1000x1000bb.png",
+   "album": {
+    "id": 1010786,
+    "name": "Nachtcafé (Single)",
+    "artist": "Berky & Bausa",
+    "cover": "https://images.genius.com/b300f6ad1e1f63b3527884846ccd166c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Berky-and-bausa/Nachtcafe-single",
+    "released": "March 10, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=Lkl6PDmGB5E"
+   },
+   "roles": [
+    "producer",
+    "writer",
+    "primary artist"
+   ]
+  },
+  {
+   "id": 8902951,
+   "title": "Nachtcafé (Radio Edit)",
+   "full_title": "Nachtcafé (Radio Edit) by Berky & Bausa",
+   "url": "https://genius.com/Berky-and-bausa-nachtcafe-radio-edit-lyrics",
+   "release_date": "2023-03-10",
+   "release_date_for_display": "March 10, 2023",
+   "pageviews": null,
+   "primary_artist": "Berky",
+   "primary_artist_id": 2521513,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/b300f6ad1e1f63b3527884846ccd166c.1000x1000x1.png",
+   "album": {
+    "id": 1010786,
+    "name": "Nachtcafé (Single)",
+    "artist": "Berky & Bausa",
+    "cover": "https://images.genius.com/b300f6ad1e1f63b3527884846ccd166c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Berky-and-bausa/Nachtcafe-single",
+    "released": "March 10, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=fFt9I2VcS3I"
+   },
+   "roles": [
+    "producer",
+    "writer",
+    "primary artist"
+   ]
+  },
+  {
+   "id": 8887290,
+   "title": "Singapur Flow",
+   "full_title": "Singapur Flow by Pajel (Ft. Bausa)",
+   "url": "https://genius.com/Pajel-singapur-flow-lyrics",
+   "release_date": "2023-03-17",
+   "release_date_for_display": "March 17, 2023",
+   "pageviews": null,
+   "primary_artist": "Pajel",
+   "primary_artist_id": 2651427,
+   "featured": [
+    "Bausa"
+   ],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2651427,
+     "name": "Pajel"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/65f8064700d272e4190c92ee7ed7a7d8.1000x1000x1.png",
+   "album": {
+    "id": 957149,
+    "name": "Purple Past",
+    "artist": "Pajel",
+    "cover": "https://images.genius.com/65f8064700d272e4190c92ee7ed7a7d8.1000x1000x1.png",
+    "url": "https://genius.com/albums/Pajel/Purple-past",
+    "released": "March 17, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=5mETAQ76o2Q"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8967974,
+   "title": "KEINE ZEIT",
+   "full_title": "KEINE ZEIT by AK AUSSERKONTROLLE & Bausa",
+   "url": "https://genius.com/Ak-ausserkontrolle-and-bausa-keine-zeit-lyrics",
+   "release_date": "2023-03-31",
+   "release_date_for_display": "March 31, 2023",
+   "pageviews": null,
+   "primary_artist": "AK AUSSERKONTROLLE",
+   "primary_artist_id": 633346,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 633346,
+     "name": "AK AUSSERKONTROLLE"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/9e404ab5c5025ef5c3755122d5587136.1000x1000x1.png",
+   "album": {
+    "id": 795195,
+    "name": "BLACKOUT",
+    "artist": "AK AUSSERKONTROLLE",
+    "cover": "https://images.genius.com/9e404ab5c5025ef5c3755122d5587136.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ak-ausserkontrolle/Blackout",
+    "released": "March 31, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=k1EYJAm03kY"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8946040,
+   "title": "Neunzig",
+   "full_title": "Neunzig by Apache 207",
+   "url": "https://genius.com/Apache-207-neunzig-lyrics",
+   "release_date": "2023-04-28",
+   "release_date_for_display": "April 28, 2023",
+   "pageviews": 23839,
+   "primary_artist": "Apache 207",
+   "primary_artist_id": 1536490,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 39931,
+     "name": "JUMPA"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 85037,
+     "name": "Bozza"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 39931,
+     "name": "JUMPA"
+    }
+   ],
+   "art": "https://images.genius.com/1853328000bf99d436bba2e3d0608c59.1000x1000x1.png",
+   "album": {
+    "id": 953032,
+    "name": "Gartenstadt",
+    "artist": "Apache 207",
+    "cover": "https://images.genius.com/64c6cc432b09c96df25e2f7d28347ee3.1000x1000x1.png",
+    "url": "https://genius.com/albums/Apache-207/Gartenstadt",
+    "released": "June 9, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=gfF6bTmVHsM"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8946043,
+   "title": "Coco Chanel",
+   "full_title": "Coco Chanel by Apache 207",
+   "url": "https://genius.com/Apache-207-coco-chanel-lyrics",
+   "release_date": "2023-06-09",
+   "release_date_for_display": "June 9, 2023",
+   "pageviews": 9553,
+   "primary_artist": "Apache 207",
+   "primary_artist_id": 1536490,
+   "featured": [],
+   "producers": [
+    {
+     "id": 39931,
+     "name": "JUMPA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 85037,
+     "name": "Bozza"
+    },
+    {
+     "id": 1761612,
+     "name": "SELMON"
+    },
+    {
+     "id": 39931,
+     "name": "JUMPA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/64c6cc432b09c96df25e2f7d28347ee3.1000x1000x1.png",
+   "album": {
+    "id": 953032,
+    "name": "Gartenstadt",
+    "artist": "Apache 207",
+    "cover": "https://images.genius.com/64c6cc432b09c96df25e2f7d28347ee3.1000x1000x1.png",
+    "url": "https://genius.com/albums/Apache-207/Gartenstadt",
+    "released": "June 9, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=X5Q-7VmIOVc"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8946047,
+   "title": "Gefunden",
+   "full_title": "Gefunden by Apache 207",
+   "url": "https://genius.com/Apache-207-gefunden-lyrics",
+   "release_date": "2023-06-09",
+   "release_date_for_display": "June 9, 2023",
+   "pageviews": null,
+   "primary_artist": "Apache 207",
+   "primary_artist_id": 1536490,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/64c6cc432b09c96df25e2f7d28347ee3.1000x1000x1.png",
+   "album": {
+    "id": 953032,
+    "name": "Gartenstadt",
+    "artist": "Apache 207",
+    "cover": "https://images.genius.com/64c6cc432b09c96df25e2f7d28347ee3.1000x1000x1.png",
+    "url": "https://genius.com/albums/Apache-207/Gartenstadt",
+    "released": "June 9, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=g0QAs1Gb4Pg"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8946039,
+   "title": "Kurz vor 4",
+   "full_title": "Kurz vor 4 by Apache 207",
+   "url": "https://genius.com/Apache-207-kurz-vor-4-lyrics",
+   "release_date": "2023-06-09",
+   "release_date_for_display": "June 9, 2023",
+   "pageviews": null,
+   "primary_artist": "Apache 207",
+   "primary_artist_id": 1536490,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1432645,
+     "name": "WorstBeatz"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1432645,
+     "name": "WorstBeatz"
+    }
+   ],
+   "art": "https://images.genius.com/64c6cc432b09c96df25e2f7d28347ee3.1000x1000x1.png",
+   "album": {
+    "id": 953032,
+    "name": "Gartenstadt",
+    "artist": "Apache 207",
+    "cover": "https://images.genius.com/64c6cc432b09c96df25e2f7d28347ee3.1000x1000x1.png",
+    "url": "https://genius.com/albums/Apache-207/Gartenstadt",
+    "released": "June 9, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=OfF8t-8hkuw"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 8946051,
+   "title": "Raus hier",
+   "full_title": "Raus hier by Apache 207",
+   "url": "https://genius.com/Apache-207-raus-hier-lyrics",
+   "release_date": "2023-06-09",
+   "release_date_for_display": "June 9, 2023",
+   "pageviews": null,
+   "primary_artist": "Apache 207",
+   "primary_artist_id": 1536490,
+   "featured": [],
+   "producers": [
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/64c6cc432b09c96df25e2f7d28347ee3.1000x1000x1.png",
+   "album": {
+    "id": 953032,
+    "name": "Gartenstadt",
+    "artist": "Apache 207",
+    "cover": "https://images.genius.com/64c6cc432b09c96df25e2f7d28347ee3.1000x1000x1.png",
+    "url": "https://genius.com/albums/Apache-207/Gartenstadt",
+    "released": "June 9, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=i2ZhiYi_tQg"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9222397,
+   "title": "2-3",
+   "full_title": "2-3 by Eno",
+   "url": "https://genius.com/Eno-2-3-lyrics",
+   "release_date": "2023-06-16",
+   "release_date_for_display": "June 16, 2023",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2517705,
+     "name": "Ido (Producer)"
+    },
+    {
+     "id": 1687288,
+     "name": "Kzuni"
+    },
+    {
+     "id": 2125403,
+     "name": "VEYIS"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2517705,
+     "name": "Ido (Producer)"
+    },
+    {
+     "id": 1687288,
+     "name": "Kzuni"
+    },
+    {
+     "id": 2125403,
+     "name": "VEYIS"
+    }
+   ],
+   "art": "https://images.genius.com/de308095ca17a4995446e89ac3040edc.1000x1000x1.png",
+   "album": {
+    "id": 1047301,
+    "name": "D-TEC",
+    "artist": "Eno",
+    "cover": "https://images.genius.com/32c559d23d7aab812ba77040fd2343a9.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno/D-tec",
+    "released": "December 15, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=VGhX0_d7P8Y"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9196050,
+   "title": "Genauso",
+   "full_title": "Genauso by Bausa & Dhurata Dora",
+   "url": "https://genius.com/Bausa-and-dhurata-dora-genauso-lyrics",
+   "release_date": "2023-06-30",
+   "release_date_for_display": "June 30, 2023",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    }
+   ],
+   "writers": [
+    {
+     "id": 151161,
+     "name": "Dhurata Dora"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/4d433d8f6c29eda7c09ac257a7a1f387.1000x1000x1.jpg",
+   "album": {
+    "id": 1044231,
+    "name": "Der Letzte macht das Licht aus",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-letzte-macht-das-licht-aus",
+    "released": "September 8, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=cMJ5X4gK6dA"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9401233,
+   "title": "Nur in meinem Block",
+   "full_title": "Nur in meinem Block by Sasan",
+   "url": "https://genius.com/Sasan-nur-in-meinem-block-lyrics",
+   "release_date": "2023-08-04",
+   "release_date_for_display": "August 4, 2023",
+   "pageviews": null,
+   "primary_artist": "Sasan",
+   "primary_artist_id": 1762896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 3623972,
+     "name": "Nico Serkaris"
+    },
+    {
+     "id": 1432645,
+     "name": "WorstBeatz"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1762896,
+     "name": "Sasan"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1432645,
+     "name": "WorstBeatz"
+    },
+    {
+     "id": 3623972,
+     "name": "Nico Serkaris"
+    }
+   ],
+   "art": "https://images.genius.com/154fee0c6fa0be38795114ee945fe4e5.1000x1000x1.png",
+   "album": {
+    "id": 1196199,
+    "name": "3ZKB",
+    "artist": "Sasan",
+    "cover": "https://images.genius.com/70529838ec17cb33510ff4aea8f11f94.1000x1000x1.png",
+    "url": "https://genius.com/albums/Sasan/3zkb",
+    "released": "June 14, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=nBq-tXF_wZk"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9388883,
+   "title": "Sim",
+   "full_title": "Sim by Eno & Dardan",
+   "url": "https://genius.com/Eno-and-dardan-sim-lyrics",
+   "release_date": "2023-08-04",
+   "release_date_for_display": "August 4, 2023",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 1006113,
+     "name": "Dardan"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/59b8252a0dcab507209969e99cc8eaa6.1000x1000x1.png",
+   "album": {
+    "id": 1047301,
+    "name": "D-TEC",
+    "artist": "Eno",
+    "cover": "https://images.genius.com/32c559d23d7aab812ba77040fd2343a9.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno/D-tec",
+    "released": "December 15, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=aSnMlOUrmrY"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9196057,
+   "title": "Hand aufs Herz",
+   "full_title": "Hand aufs Herz by Bausa & Cocon",
+   "url": "https://genius.com/Bausa-and-cocon-hand-aufs-herz-lyrics",
+   "release_date": "2023-08-11",
+   "release_date_for_display": "August 11, 2023",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 1898361,
+     "name": "Cocon"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/344bcc872818aaea0f95018481e0f4d4.1000x1000x1.png",
+   "album": {
+    "id": 1044231,
+    "name": "Der Letzte macht das Licht aus",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-letzte-macht-das-licht-aus",
+    "released": "September 8, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=VEn9oCWWGHI"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9410186,
+   "title": "NAYLON",
+   "full_title": "NAYLON by Lil Zey",
+   "url": "https://genius.com/Lil-zey-naylon-lyrics",
+   "release_date": "2023-08-11",
+   "release_date_for_display": "August 11, 2023",
+   "pageviews": 7473,
+   "primary_artist": "Lil Zey",
+   "primary_artist_id": 1132963,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1882779,
+     "name": "Muerte Beatz"
+    },
+    {
+     "id": 1905580,
+     "name": "Simülasyon"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1882779,
+     "name": "Muerte Beatz"
+    },
+    {
+     "id": 1132963,
+     "name": "Lil Zey"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1905580,
+     "name": "Simülasyon"
+    }
+   ],
+   "art": "https://images.genius.com/443af117465af2baf3a10e355601807a.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=VJmqbNfoOaY"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9426824,
+   "title": "alcatraz",
+   "full_title": "alcatraz by Sampagne",
+   "url": "https://genius.com/Sampagne-alcatraz-lyrics",
+   "release_date": "2023-08-25",
+   "release_date_for_display": "August 25, 2023",
+   "pageviews": null,
+   "primary_artist": "Sampagne",
+   "primary_artist_id": 2808078,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 3487680,
+     "name": "Modulardozent"
+    },
+    {
+     "id": 2808078,
+     "name": "Sampagne"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2808078,
+     "name": "Sampagne"
+    },
+    {
+     "id": 1500865,
+     "name": "YUNG SAINT PAUL"
+    },
+    {
+     "id": 2934630,
+     "name": "Daniel Bär"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 3487680,
+     "name": "Modulardozent"
+    }
+   ],
+   "art": "https://images.genius.com/f7e6caebfe49d300da0dcb4763870e71.1000x1000x1.png",
+   "album": {
+    "id": 1070670,
+    "name": "simulation (EP)",
+    "artist": "Sampagne",
+    "cover": "https://images.genius.com/f7e6caebfe49d300da0dcb4763870e71.1000x1000x1.png",
+    "url": "https://genius.com/albums/Sampagne/Simulation-ep",
+    "released": "August 25, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=dmmDHMl4g8g"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9196048,
+   "title": "Ehrenmann",
+   "full_title": "Ehrenmann by Bausa & Bozza",
+   "url": "https://genius.com/Bausa-and-bozza-ehrenmann-lyrics",
+   "release_date": "2023-09-08",
+   "release_date_for_display": "September 8, 2023",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 85037,
+     "name": "Bozza"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+   "album": {
+    "id": 1044231,
+    "name": "Der Letzte macht das Licht aus",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-letzte-macht-das-licht-aus",
+    "released": "September 8, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=cAwePQtrYNw"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9196060,
+   "title": "OCB",
+   "full_title": "OCB by Bausa",
+   "url": "https://genius.com/Bausa-ocb-lyrics",
+   "release_date": "2023-09-08",
+   "release_date_for_display": "September 8, 2023",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+   "album": {
+    "id": 1044231,
+    "name": "Der Letzte macht das Licht aus",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-letzte-macht-das-licht-aus",
+    "released": "September 8, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=EDbtMGgplQk"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9196053,
+   "title": "So wie du",
+   "full_title": "So wie du by Bausa",
+   "url": "https://genius.com/Bausa-so-wie-du-lyrics",
+   "release_date": "2023-09-08",
+   "release_date_for_display": "September 8, 2023",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+   "album": {
+    "id": 1044231,
+    "name": "Der Letzte macht das Licht aus",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-letzte-macht-das-licht-aus",
+    "released": "September 8, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=RKYtac-YLmU"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9196059,
+   "title": "Viel passiert",
+   "full_title": "Viel passiert by Bausa",
+   "url": "https://genius.com/Bausa-viel-passiert-lyrics",
+   "release_date": "2023-09-08",
+   "release_date_for_display": "September 8, 2023",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+   "album": {
+    "id": 1044231,
+    "name": "Der Letzte macht das Licht aus",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-letzte-macht-das-licht-aus",
+    "released": "September 8, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=kvLji81mFaI"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9196056,
+   "title": "Wo ist mein Geld?",
+   "full_title": "Wo ist mein Geld? by Bausa",
+   "url": "https://genius.com/Bausa-wo-ist-mein-geld-lyrics",
+   "release_date": "2023-09-08",
+   "release_date_for_display": "September 8, 2023",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+   "album": {
+    "id": 1044231,
+    "name": "Der Letzte macht das Licht aus",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-letzte-macht-das-licht-aus",
+    "released": "September 8, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=ZQXqqO0xdvY"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9196051,
+   "title": "Wunschkonzert",
+   "full_title": "Wunschkonzert by Bausa",
+   "url": "https://genius.com/Bausa-wunschkonzert-lyrics",
+   "release_date": "2023-09-08",
+   "release_date_for_display": "September 8, 2023",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+   "album": {
+    "id": 1044231,
+    "name": "Der Letzte macht das Licht aus",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/6bbfec21836ec2ba66711a4ab42a43c0.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-letzte-macht-das-licht-aus",
+    "released": "September 8, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=00-pg9IXOVE"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9563548,
+   "title": "1000 Mal",
+   "full_title": "1000 Mal by Bausa & LEA",
+   "url": "https://genius.com/Bausa-and-lea-1000-mal-lyrics",
+   "release_date": "2023-09-29",
+   "release_date_for_display": "September 29, 2023",
+   "pageviews": 15665,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 1103006,
+     "name": "LEA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/e2b0f745d7c3f05a487bdcd67550855e.1000x1000x1.png",
+   "album": {
+    "id": 1087933,
+    "name": "Der Letzte macht das Licht aus (Deluxe Edition)",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/4e634e80872bc69e991a4aeea2c6e20c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-letzte-macht-das-licht-aus-deluxe-edition",
+    "released": "September 29, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=fT6Qtn-KogY"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9568517,
+   "title": "Frühling im Viertel (Remix)",
+   "full_title": "Frühling im Viertel (Remix) by Bausa",
+   "url": "https://genius.com/Bausa-fruhling-im-viertel-remix-lyrics",
+   "release_date": "2023-09-29",
+   "release_date_for_display": "September 29, 2023",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/4e634e80872bc69e991a4aeea2c6e20c.1000x1000x1.png",
+   "album": {
+    "id": 1087933,
+    "name": "Der Letzte macht das Licht aus (Deluxe Edition)",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/4e634e80872bc69e991a4aeea2c6e20c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-letzte-macht-das-licht-aus-deluxe-edition",
+    "released": "September 29, 2023"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=Y_-sv9G0upI"
+   },
+   "roles": [
+    "writer"
+   ]
+  },
+  {
+   "id": 9638784,
+   "title": "Freier Fall",
+   "full_title": "Freier Fall by Berky & LEA",
+   "url": "https://genius.com/Berky-and-lea-freier-fall-lyrics",
+   "release_date": "2023-10-20",
+   "release_date_for_display": "October 20, 2023",
+   "pageviews": null,
+   "primary_artist": "Berky",
+   "primary_artist_id": 2521513,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1103006,
+     "name": "LEA"
+    }
+   ],
+   "art": "https://images.genius.com/ef18ddd7a5c7e59f69c97b4dd9c38008.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=6KhbRU5MOu4"
+   },
+   "roles": [
+    "producer",
+    "writer",
+    "primary artist"
+   ]
+  },
+  {
+   "id": 9899983,
+   "title": "Bullet",
+   "full_title": "Bullet by MERO & AYLIVA",
+   "url": "https://genius.com/Mero-and-ayliva-bullet-lyrics",
+   "release_date": "2024-01-05",
+   "release_date_for_display": "January 5, 2024",
+   "pageviews": 18563,
+   "primary_artist": "MERO",
+   "primary_artist_id": 1586144,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1824736,
+     "name": "Kyree"
+    },
+    {
+     "id": 2960322,
+     "name": "EDDYsechszwei"
+    },
+    {
+     "id": 1911662,
+     "name": "FRIO"
+    },
+    {
+     "id": 27740,
+     "name": "Juh-Dee"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1586144,
+     "name": "MERO"
+    },
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 1824736,
+     "name": "Kyree"
+    },
+    {
+     "id": 1911662,
+     "name": "FRIO"
+    },
+    {
+     "id": 2960322,
+     "name": "EDDYsechszwei"
+    },
+    {
+     "id": 27740,
+     "name": "Juh-Dee"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/2605e4be4d852d967847a410569c7ca4.1000x1000x1.png",
+   "album": {
+    "id": 1206457,
+    "name": "Renaissance",
+    "artist": "MERO",
+    "cover": "https://images.genius.com/05d6d5bc0f86416fef2b3bc07efed4f8.1000x1000x1.png",
+    "url": "https://genius.com/albums/Mero/Renaissance",
+    "released": "October 11, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=2g-fwbH1QOY"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9903594,
+   "title": "Wieder Mal",
+   "full_title": "Wieder Mal by Jazeek & Pajel",
+   "url": "https://genius.com/Jazeek-and-pajel-wieder-mal-lyrics",
+   "release_date": "2024-01-12",
+   "release_date_for_display": "January 12, 2024",
+   "pageviews": null,
+   "primary_artist": "Jazeek",
+   "primary_artist_id": 2976669,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2976669,
+     "name": "Jazeek"
+    },
+    {
+     "id": 2651427,
+     "name": "Pajel"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/d8193626b6316a805c65f750a629cbc1.1000x1000x1.png",
+   "album": {
+    "id": 1105088,
+    "name": "NINETYNINE",
+    "artist": "Jazeek",
+    "cover": "https://images.genius.com/d8193626b6316a805c65f750a629cbc1.1000x1000x1.png",
+    "url": "https://genius.com/albums/Jazeek/Ninetynine",
+    "released": "January 12, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=gLoT3cT6aj8"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9940251,
+   "title": "Z0RNIG [2O24]",
+   "full_title": "Z0RNIG [2O24] by Ski Aggu",
+   "url": "https://genius.com/Ski-aggu-z0rnig-2o24-lyrics",
+   "release_date": "2024-01-26",
+   "release_date_for_display": "January 26, 2024",
+   "pageviews": 9980,
+   "primary_artist": "Ski Aggu",
+   "primary_artist_id": 2627688,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2627688,
+     "name": "Ski Aggu"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    }
+   ],
+   "art": "https://images.genius.com/26c1deed9896b8ca8d39eade650c20f8.1000x1000x1.png",
+   "album": {
+    "id": 1191786,
+    "name": "Wilmersdorfs Kind",
+    "artist": "Ski Aggu",
+    "cover": "https://images.genius.com/44ec479f79dbe27cc0f4085a5927950c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ski-aggu/Wilmersdorfs-kind",
+    "released": "August 30, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=lUgGoutZn3E"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9999836,
+   "title": "Z0RNIG [2O24] – Kev Koko Remix",
+   "full_title": "Z0RNIG [2O24] – Kev Koko Remix by Ski Aggu (Ft. Kev Koko)",
+   "url": "https://genius.com/Ski-aggu-z0rnig-2o24-kev-koko-remix-lyrics",
+   "release_date": "2024-01-30",
+   "release_date_for_display": "January 30, 2024",
+   "pageviews": null,
+   "primary_artist": "Ski Aggu",
+   "primary_artist_id": 2627688,
+   "featured": [
+    "Kev Koko"
+   ],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    },
+    {
+     "id": 2527102,
+     "name": "Kev Koko"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2627688,
+     "name": "Ski Aggu"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    }
+   ],
+   "art": "https://images.genius.com/f288d31b8ceae6e283080748afd3ec2c.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=ExdAESgUy9g"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9999858,
+   "title": "Z0RNIG [2O24] – Niklas Dee & Berky Remix",
+   "full_title": "Z0RNIG [2O24] – Niklas Dee & Berky Remix by Ski Aggu, Niklas Dee & Berky",
+   "url": "https://genius.com/Ski-aggu-niklas-dee-and-berky-z0rnig-2o24-niklas-dee-and-berky-remix-lyrics",
+   "release_date": "2024-01-30",
+   "release_date_for_display": "January 30, 2024",
+   "pageviews": null,
+   "primary_artist": "Ski Aggu",
+   "primary_artist_id": 2627688,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    },
+    {
+     "id": 2175406,
+     "name": "Niklas Dee"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2627688,
+     "name": "Ski Aggu"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    }
+   ],
+   "art": "https://images.genius.com/f436bc98a7fc7e7f4c76f5c34936005f.691x691x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=hV0tixtyUGk"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10304510,
+   "title": "Wunder",
+   "full_title": "Wunder by AYLIVA & Apache 207",
+   "url": "https://genius.com/Ayliva-and-apache-207-wunder-lyrics",
+   "release_date": "2024-04-26",
+   "release_date_for_display": "April 26, 2024",
+   "pageviews": 82854,
+   "primary_artist": "AYLIVA",
+   "primary_artist_id": 2607953,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2129122,
+     "name": "masri"
+    },
+    {
+     "id": 2129123,
+     "name": "Oliver Melchers"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2129122,
+     "name": "masri"
+    },
+    {
+     "id": 2129123,
+     "name": "Oliver Melchers"
+    }
+   ],
+   "art": "https://images.genius.com/b96bdb835499b5e663a8528ed0fc77ef.1000x1000x1.png",
+   "album": {
+    "id": 1139892,
+    "name": "In Liebe",
+    "artist": "AYLIVA",
+    "cover": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ayliva/In-liebe",
+    "released": "August 16, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=Sf6DIUk5fhc"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10539493,
+   "title": "als ob ich’s einfach hätte",
+   "full_title": "als ob ich’s einfach hätte by Zartmann",
+   "url": "https://genius.com/Zartmann-als-ob-ichs-einfach-hatte-lyrics",
+   "release_date": "2024-06-21",
+   "release_date_for_display": "June 21, 2024",
+   "pageviews": null,
+   "primary_artist": "Zartmann",
+   "primary_artist_id": 2627681,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2627681,
+     "name": "Zartmann"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/91d82c23586b746d3760236d0cce3b5c.1000x1000x1.png",
+   "album": {
+    "id": 1186947,
+    "name": "dafür bin ich frei EP",
+    "artist": "Zartmann",
+    "cover": "https://images.genius.com/91d82c23586b746d3760236d0cce3b5c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Zartmann/Dafur-bin-ich-frei-ep",
+    "released": "June 21, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=IntWf-keWTs"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10521822,
+   "title": "dafür bin ich frei",
+   "full_title": "dafür bin ich frei by Zartmann & Bausa",
+   "url": "https://genius.com/Zartmann-and-bausa-dafur-bin-ich-frei-lyrics",
+   "release_date": "2024-06-21",
+   "release_date_for_display": "June 21, 2024",
+   "pageviews": null,
+   "primary_artist": "Zartmann",
+   "primary_artist_id": 2627681,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2451058,
+     "name": "Barré"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2627681,
+     "name": "Zartmann"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2451058,
+     "name": "Barré"
+    }
+   ],
+   "art": "https://images.genius.com/91d82c23586b746d3760236d0cce3b5c.1000x1000x1.png",
+   "album": {
+    "id": 1186947,
+    "name": "dafür bin ich frei EP",
+    "artist": "Zartmann",
+    "cover": "https://images.genius.com/91d82c23586b746d3760236d0cce3b5c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Zartmann/Dafur-bin-ich-frei-ep",
+    "released": "June 21, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=0xN4NR-Gew0"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10376425,
+   "title": "abgelenkt",
+   "full_title": "abgelenkt by Ski Aggu",
+   "url": "https://genius.com/Ski-aggu-abgelenkt-lyrics",
+   "release_date": "2024-07-18",
+   "release_date_for_display": "July 18, 2024",
+   "pageviews": null,
+   "primary_artist": "Ski Aggu",
+   "primary_artist_id": 2627688,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2451058,
+     "name": "Barré"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2627688,
+     "name": "Ski Aggu"
+    },
+    {
+     "id": 3291310,
+     "name": "Ritter Lean"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2451058,
+     "name": "Barré"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    }
+   ],
+   "art": "https://images.genius.com/5b15160642b9778feeccc787b7159b8f.1000x1000x1.png",
+   "album": {
+    "id": 1191786,
+    "name": "Wilmersdorfs Kind",
+    "artist": "Ski Aggu",
+    "cover": "https://images.genius.com/44ec479f79dbe27cc0f4085a5927950c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ski-aggu/Wilmersdorfs-kind",
+    "released": "August 30, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=Us90BZQz6Wc"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10563666,
+   "title": "Nein!",
+   "full_title": "Nein! by AYLIVA",
+   "url": "https://genius.com/Ayliva-nein-lyrics",
+   "release_date": "2024-07-19",
+   "release_date_for_display": "July 19, 2024",
+   "pageviews": 36989,
+   "primary_artist": "AYLIVA",
+   "primary_artist_id": 2607953,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2129122,
+     "name": "masri"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 2129122,
+     "name": "masri"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/ce2ab486c4cfd0f9343b3a54a5ebdcb1.1000x1000x1.png",
+   "album": {
+    "id": 1139892,
+    "name": "In Liebe",
+    "artist": "AYLIVA",
+    "cover": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ayliva/In-liebe",
+    "released": "August 16, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=_A5g7IFxAWQ"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10674461,
+   "title": "Wie Du",
+   "full_title": "Wie Du by Dardan",
+   "url": "https://genius.com/Dardan-wie-du-lyrics",
+   "release_date": "2024-07-26",
+   "release_date_for_display": "July 26, 2024",
+   "pageviews": null,
+   "primary_artist": "Dardan",
+   "primary_artist_id": 1006113,
+   "featured": [],
+   "producers": [
+    {
+     "id": 398742,
+     "name": "MENJU"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1006113,
+     "name": "Dardan"
+    },
+    {
+     "id": 627810,
+     "name": "Nio"
+    },
+    {
+     "id": 398742,
+     "name": "MENJU"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/fc5aab599ddff48f37ffa2fc010d40e2.1000x1000x1.png",
+   "album": {
+    "id": 1212103,
+    "name": "Mr. Untouchable",
+    "artist": "Dardan",
+    "cover": "https://images.genius.com/01062cbae35bca8a3007c7bbd808a78d.1000x1000x1.png",
+    "url": "https://genius.com/albums/Dardan/Mr-untouchable",
+    "released": "November 8, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=2QaBp-53Nvk"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10701218,
+   "title": "Lilien",
+   "full_title": "Lilien by AYLIVA",
+   "url": "https://genius.com/Ayliva-lilien-lyrics",
+   "release_date": "2024-08-16",
+   "release_date_for_display": "August 16, 2024",
+   "pageviews": 112473,
+   "primary_artist": "AYLIVA",
+   "primary_artist_id": 2607953,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2129122,
+     "name": "masri"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 2129122,
+     "name": "masri"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1840978,
+     "name": "Rhani Krija"
+    }
+   ],
+   "art": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+   "album": {
+    "id": 1139892,
+    "name": "In Liebe",
+    "artist": "AYLIVA",
+    "cover": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ayliva/In-liebe",
+    "released": "August 16, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=_SG9sAww9pw"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10611841,
+   "title": "Mein Freak",
+   "full_title": "Mein Freak by AYLIVA",
+   "url": "https://genius.com/Ayliva-mein-freak-lyrics",
+   "release_date": "2024-08-16",
+   "release_date_for_display": "August 16, 2024",
+   "pageviews": 26914,
+   "primary_artist": "AYLIVA",
+   "primary_artist_id": 2607953,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+   "album": {
+    "id": 1139892,
+    "name": "In Liebe",
+    "artist": "AYLIVA",
+    "cover": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ayliva/In-liebe",
+    "released": "August 16, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=0rx_XZQ5Vp4"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10701204,
+   "title": "Nie deins",
+   "full_title": "Nie deins by AYLIVA",
+   "url": "https://genius.com/Ayliva-nie-deins-lyrics",
+   "release_date": "2024-08-16",
+   "release_date_for_display": "August 16, 2024",
+   "pageviews": 40264,
+   "primary_artist": "AYLIVA",
+   "primary_artist_id": 2607953,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2129122,
+     "name": "masri"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 2129122,
+     "name": "masri"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2801904,
+     "name": "Leon Rothkopf"
+    }
+   ],
+   "art": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+   "album": {
+    "id": 1139892,
+    "name": "In Liebe",
+    "artist": "AYLIVA",
+    "cover": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ayliva/In-liebe",
+    "released": "August 16, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=68_35YNNsho"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10700588,
+   "title": "Traum",
+   "full_title": "Traum by AYLIVA",
+   "url": "https://genius.com/Ayliva-traum-lyrics",
+   "release_date": "2024-08-16",
+   "release_date_for_display": "August 16, 2024",
+   "pageviews": 39295,
+   "primary_artist": "AYLIVA",
+   "primary_artist_id": 2607953,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2129122,
+     "name": "masri"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2129122,
+     "name": "masri"
+    }
+   ],
+   "art": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+   "album": {
+    "id": 1139892,
+    "name": "In Liebe",
+    "artist": "AYLIVA",
+    "cover": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ayliva/In-liebe",
+    "released": "August 16, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=_oN7s4b156o"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 9937573,
+   "title": "Wind",
+   "full_title": "Wind by AYLIVA",
+   "url": "https://genius.com/Ayliva-wind-lyrics",
+   "release_date": "2024-08-16",
+   "release_date_for_display": "August 16, 2024",
+   "pageviews": 37920,
+   "primary_artist": "AYLIVA",
+   "primary_artist_id": 2607953,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+   "album": {
+    "id": 1139892,
+    "name": "In Liebe",
+    "artist": "AYLIVA",
+    "cover": "https://images.genius.com/c9f0a61e3ecf4f14bd4ec222aaf102f6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ayliva/In-liebe",
+    "released": "August 16, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=4BPQzelDvuo"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10785100,
+   "title": "IMMER (MIT MAKKO)",
+   "full_title": "IMMER (MIT MAKKO) by Ski Aggu & makko",
+   "url": "https://genius.com/Ski-aggu-and-makko-immer-mit-makko-lyrics",
+   "release_date": "2024-08-29",
+   "release_date_for_display": "August 29, 2024",
+   "pageviews": 14669,
+   "primary_artist": "Ski Aggu",
+   "primary_artist_id": 2627688,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    },
+    {
+     "id": 2382136,
+     "name": "Robert Wallner"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2627688,
+     "name": "Ski Aggu"
+    },
+    {
+     "id": 2072750,
+     "name": "makko"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    },
+    {
+     "id": 2382136,
+     "name": "Robert Wallner"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/44ec479f79dbe27cc0f4085a5927950c.1000x1000x1.png",
+   "album": {
+    "id": 1191786,
+    "name": "Wilmersdorfs Kind",
+    "artist": "Ski Aggu",
+    "cover": "https://images.genius.com/44ec479f79dbe27cc0f4085a5927950c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ski-aggu/Wilmersdorfs-kind",
+    "released": "August 30, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=1gNE2fIxkkA"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10766960,
+   "title": "WILMERSDORFS KIND",
+   "full_title": "WILMERSDORFS KIND by Ski Aggu",
+   "url": "https://genius.com/Ski-aggu-wilmersdorfs-kind-lyrics",
+   "release_date": "2024-08-30",
+   "release_date_for_display": "August 30, 2024",
+   "pageviews": 13727,
+   "primary_artist": "Ski Aggu",
+   "primary_artist_id": 2627688,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    },
+    {
+     "id": 2382136,
+     "name": "Robert Wallner"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2627688,
+     "name": "Ski Aggu"
+    },
+    {
+     "id": 3291310,
+     "name": "Ritter Lean"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    },
+    {
+     "id": 2382136,
+     "name": "Robert Wallner"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/44ec479f79dbe27cc0f4085a5927950c.1000x1000x1.png",
+   "album": {
+    "id": 1191786,
+    "name": "Wilmersdorfs Kind",
+    "artist": "Ski Aggu",
+    "cover": "https://images.genius.com/44ec479f79dbe27cc0f4085a5927950c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ski-aggu/Wilmersdorfs-kind",
+    "released": "August 30, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=qizhfl0V6G8"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10808225,
+   "title": "berky hau mal in die tasten du wunderkind",
+   "full_title": "berky hau mal in die tasten du wunderkind by Ski Aggu",
+   "url": "https://genius.com/Ski-aggu-berky-hau-mal-in-die-tasten-du-wunderkind-lyrics",
+   "release_date": "2024-08-30",
+   "release_date_for_display": "August 30, 2024",
+   "pageviews": null,
+   "primary_artist": "Ski Aggu",
+   "primary_artist_id": 2627688,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/44ec479f79dbe27cc0f4085a5927950c.1000x1000x1.png",
+   "album": {
+    "id": 1191786,
+    "name": "Wilmersdorfs Kind",
+    "artist": "Ski Aggu",
+    "cover": "https://images.genius.com/44ec479f79dbe27cc0f4085a5927950c.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ski-aggu/Wilmersdorfs-kind",
+    "released": "August 30, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=zRDX7aXKsF0"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10851492,
+   "title": "Augen groß",
+   "full_title": "Augen groß by 01099, Gustav, Paul & Zachi",
+   "url": "https://genius.com/01099-gustav-paul-and-zachi-augen-gro-lyrics",
+   "release_date": "2024-09-13",
+   "release_date_for_display": "September 13, 2024",
+   "pageviews": null,
+   "primary_artist": "01099",
+   "primary_artist_id": 1984410,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    },
+    {
+     "id": 26062,
+     "name": "Lucry"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2538210,
+     "name": "Gustav"
+    },
+    {
+     "id": 2547616,
+     "name": "Paul"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    },
+    {
+     "id": 3360641,
+     "name": "Cesa (Producer)"
+    }
+   ],
+   "art": "https://images.genius.com/e700e63a842bf020f27e97ec16c6d265.1000x1000x1.png",
+   "album": {
+    "id": 1203569,
+    "name": "Kinder der Nacht",
+    "artist": "01099",
+    "cover": "https://images.genius.com/e700e63a842bf020f27e97ec16c6d265.1000x1000x1.png",
+    "url": "https://genius.com/albums/01099/Kinder-der-nacht",
+    "released": "September 13, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=JFjnANtBWfU"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10521912,
+   "title": "Kinder der Nacht",
+   "full_title": "Kinder der Nacht by 01099, Gustav & Paul",
+   "url": "https://genius.com/01099-gustav-and-paul-kinder-der-nacht-lyrics",
+   "release_date": "2024-09-13",
+   "release_date_for_display": "September 13, 2024",
+   "pageviews": null,
+   "primary_artist": "01099",
+   "primary_artist_id": 1984410,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2538210,
+     "name": "Gustav"
+    },
+    {
+     "id": 2547616,
+     "name": "Paul"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1218974,
+     "name": "Dauner"
+    }
+   ],
+   "art": "https://images.genius.com/e700e63a842bf020f27e97ec16c6d265.1000x1000x1.png",
+   "album": {
+    "id": 1203569,
+    "name": "Kinder der Nacht",
+    "artist": "01099",
+    "cover": "https://images.genius.com/e700e63a842bf020f27e97ec16c6d265.1000x1000x1.png",
+    "url": "https://genius.com/albums/01099/Kinder-der-nacht",
+    "released": "September 13, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=nqeEINiptf8"
+   },
+   "roles": [
+    "writer"
+   ]
+  },
+  {
+   "id": 10925835,
+   "title": "WUNDER PUNKT",
+   "full_title": "WUNDER PUNKT by Eno",
+   "url": "https://genius.com/Eno-wunder-punkt-lyrics",
+   "release_date": "2024-09-27",
+   "release_date_for_display": "September 27, 2024",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/4bc81775ddbe4578f83b18d251189625.1000x1000x1.png",
+   "album": {
+    "id": 1191515,
+    "name": "SOMMER (EP)",
+    "artist": "Eno",
+    "cover": "https://images.genius.com/4bc81775ddbe4578f83b18d251189625.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno/Sommer-ep",
+    "released": "September 27, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=nIycu-TDsTk"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10957340,
+   "title": "FÜR IMMER",
+   "full_title": "FÜR IMMER by Hava & Dardan",
+   "url": "https://genius.com/Hava-and-dardan-fur-immer-lyrics",
+   "release_date": "2024-10-11",
+   "release_date_for_display": "October 11, 2024",
+   "pageviews": 7943,
+   "primary_artist": "Hava",
+   "primary_artist_id": 1796640,
+   "featured": [],
+   "producers": [
+    {
+     "id": 390787,
+     "name": "Aside"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1796640,
+     "name": "Hava"
+    },
+    {
+     "id": 1006113,
+     "name": "Dardan"
+    },
+    {
+     "id": 1216113,
+     "name": "Tom Thaler"
+    },
+    {
+     "id": 3869223,
+     "name": "Thore Hagedorn"
+    },
+    {
+     "id": 390787,
+     "name": "Aside"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 398742,
+     "name": "MENJU"
+    }
+   ],
+   "art": "https://images.genius.com/edbcbca32056c76219b4ee0f137f0cdb.1000x1000x1.png",
+   "album": {
+    "id": 1192900,
+    "name": "FOUR SEASONS",
+    "artist": "Hava",
+    "cover": "https://images.genius.com/a4a9826c71d0ad37258fcb94e051370a.1000x1000x1.png",
+    "url": "https://genius.com/albums/Hava/Four-seasons",
+    "released": "October 25, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=-NbUu_3VdOY"
+   },
+   "roles": [
+    "writer"
+   ]
+  },
+  {
+   "id": 10993329,
+   "title": "FRÜHLING",
+   "full_title": "FRÜHLING by Hava",
+   "url": "https://genius.com/Hava-fruhling-lyrics",
+   "release_date": "2024-10-25",
+   "release_date_for_display": "October 25, 2024",
+   "pageviews": 8042,
+   "primary_artist": "Hava",
+   "primary_artist_id": 1796640,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 398742,
+     "name": "MENJU"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1796640,
+     "name": "Hava"
+    },
+    {
+     "id": 2199720,
+     "name": "Tom Hengelbrock"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 398742,
+     "name": "MENJU"
+    }
+   ],
+   "art": "https://images.genius.com/a4a9826c71d0ad37258fcb94e051370a.1000x1000x1.png",
+   "album": {
+    "id": 1192900,
+    "name": "FOUR SEASONS",
+    "artist": "Hava",
+    "cover": "https://images.genius.com/a4a9826c71d0ad37258fcb94e051370a.1000x1000x1.png",
+    "url": "https://genius.com/albums/Hava/Four-seasons",
+    "released": "October 25, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=1WpHJi4--SI"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 10917348,
+   "title": "Kaqurrele",
+   "full_title": "Kaqurrele by Dardan",
+   "url": "https://genius.com/Dardan-kaqurrele-lyrics",
+   "release_date": "2024-11-08",
+   "release_date_for_display": "November 8, 2024",
+   "pageviews": null,
+   "primary_artist": "Dardan",
+   "primary_artist_id": 1006113,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 398742,
+     "name": "MENJU"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1006113,
+     "name": "Dardan"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 398742,
+     "name": "MENJU"
+    }
+   ],
+   "art": "https://images.genius.com/01062cbae35bca8a3007c7bbd808a78d.1000x1000x1.png",
+   "album": {
+    "id": 1212103,
+    "name": "Mr. Untouchable",
+    "artist": "Dardan",
+    "cover": "https://images.genius.com/01062cbae35bca8a3007c7bbd808a78d.1000x1000x1.png",
+    "url": "https://genius.com/albums/Dardan/Mr-untouchable",
+    "released": "November 8, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=eXioEaOKad0"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 11081075,
+   "title": "Wasser",
+   "full_title": "Wasser by Dardan",
+   "url": "https://genius.com/Dardan-wasser-lyrics",
+   "release_date": "2024-11-08",
+   "release_date_for_display": "November 8, 2024",
+   "pageviews": null,
+   "primary_artist": "Dardan",
+   "primary_artist_id": 1006113,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 398742,
+     "name": "MENJU"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1006113,
+     "name": "Dardan"
+    },
+    {
+     "id": 627810,
+     "name": "Nio"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 398742,
+     "name": "MENJU"
+    }
+   ],
+   "art": "https://images.genius.com/01062cbae35bca8a3007c7bbd808a78d.1000x1000x1.png",
+   "album": {
+    "id": 1212103,
+    "name": "Mr. Untouchable",
+    "artist": "Dardan",
+    "cover": "https://images.genius.com/01062cbae35bca8a3007c7bbd808a78d.1000x1000x1.png",
+    "url": "https://genius.com/albums/Dardan/Mr-untouchable",
+    "released": "November 8, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=YLCzHOnJBHo"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 11053624,
+   "title": "Wieso tust du das?????????",
+   "full_title": "Wieso tust du das????????? by Dardan",
+   "url": "https://genius.com/Dardan-wieso-tust-du-das-lyrics",
+   "release_date": "2024-11-08",
+   "release_date_for_display": "November 8, 2024",
+   "pageviews": null,
+   "primary_artist": "Dardan",
+   "primary_artist_id": 1006113,
+   "featured": [],
+   "producers": [
+    {
+     "id": 398742,
+     "name": "MENJU"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1006113,
+     "name": "Dardan"
+    },
+    {
+     "id": 627810,
+     "name": "Nio"
+    },
+    {
+     "id": 398742,
+     "name": "MENJU"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/01062cbae35bca8a3007c7bbd808a78d.1000x1000x1.png",
+   "album": {
+    "id": 1212103,
+    "name": "Mr. Untouchable",
+    "artist": "Dardan",
+    "cover": "https://images.genius.com/01062cbae35bca8a3007c7bbd808a78d.1000x1000x1.png",
+    "url": "https://genius.com/albums/Dardan/Mr-untouchable",
+    "released": "November 8, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=uoThgstvPeM"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 11120439,
+   "title": "极乐鸟 (Paradise Bird)",
+   "full_title": "极乐鸟 (Paradise Bird) by 万妮达 (Vinida Weng)",
+   "url": "https://genius.com/Vinida-weng-paradise-bird-lyrics",
+   "release_date": "2024-11-15",
+   "release_date_for_display": "November 15, 2024",
+   "pageviews": null,
+   "primary_artist": "万妮达 (Vinida Weng)",
+   "primary_artist_id": 1566968,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1065823,
+     "name": "HARIKIRI"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1566968,
+     "name": "万妮达 (Vinida Weng)"
+    }
+   ],
+   "art": "https://images.genius.com/4c7b661c27cd6288287a885229cb86b6.540x540x1.jpg",
+   "album": {
+    "id": 1278225,
+    "name": "七号种子 (7th Seed)",
+    "artist": "万妮达 (Vinida Weng)",
+    "cover": "https://images.genius.com/4c7b661c27cd6288287a885229cb86b6.540x540x1.jpg",
+    "url": "https://genius.com/albums/Vinida-weng/7th-seed",
+    "released": "November 15, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=T9tjdoX2QDI"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 10159821,
+   "title": "Rosarote Brille",
+   "full_title": "Rosarote Brille by Mike Singer",
+   "url": "https://genius.com/Mike-singer-rosarote-brille-lyrics",
+   "release_date": "2024-12-27",
+   "release_date_for_display": "December 27, 2024",
+   "pageviews": null,
+   "primary_artist": "Mike Singer",
+   "primary_artist_id": 576542,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 576542,
+     "name": "Mike Singer"
+    },
+    {
+     "id": 3018456,
+     "name": "Aves (R&B Producer)"
+    },
+    {
+     "id": 1824896,
+     "name": "TheDoDo"
+    }
+   ],
+   "art": "https://images.genius.com/ba78107bb0313d7b31ce21be8cbd99d5.1000x1000x1.png",
+   "album": {
+    "id": 1076872,
+    "name": "Don’t Rush",
+    "artist": "Mike Singer",
+    "cover": "https://images.genius.com/ba78107bb0313d7b31ce21be8cbd99d5.1000x1000x1.png",
+    "url": "https://genius.com/albums/Mike-singer/Dont-rush",
+    "released": "December 27, 2024"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=hy-5DZWlDqg"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 11318725,
+   "title": "Frühling im Viertel 2.0",
+   "full_title": "Frühling im Viertel 2.0 by Bausa (Ft. Kane)",
+   "url": "https://genius.com/Bausa-fruhling-im-viertel-20-lyrics",
+   "release_date": "2025-01-10",
+   "release_date_for_display": "January 10, 2025",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [
+    "Kane"
+   ],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 3878384,
+     "name": "Kane"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/2d4dce42c5f3becf312b8d182bf581ce.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=aPNEh5OJxsQ"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 11469018,
+   "title": "SKELLY",
+   "full_title": "SKELLY by reezy",
+   "url": "https://genius.com/Reezy-skelly-lyrics",
+   "release_date": "2025-02-14",
+   "release_date_for_display": "February 14, 2025",
+   "pageviews": 5145,
+   "primary_artist": "reezy",
+   "primary_artist_id": 1028151,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1028151,
+     "name": "reezy"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 3732982,
+     "name": "Jazouli"
+    },
+    {
+     "id": 4316240,
+     "name": "Khaila (Producer)"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1028151,
+     "name": "reezy"
+    }
+   ],
+   "art": "https://images.genius.com/267ee833895c0900b159f857a6d59298.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "soundcloud": "https://soundcloud.com/reezy-music/skelly?si=851d587c52c04e5684232962d53381be&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+    "youtube": "https://www.youtube.com/watch?v=qMFCoEZK2gc"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 11487266,
+   "title": "Wie?",
+   "full_title": "Wie? by AYLIVA",
+   "url": "https://genius.com/Ayliva-wie-lyrics",
+   "release_date": "2025-02-21",
+   "release_date_for_display": "February 21, 2025",
+   "pageviews": 114974,
+   "primary_artist": "AYLIVA",
+   "primary_artist_id": 2607953,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/cfaed197cedcf0e258ad25a71bc57c5e.1000x1000x1.png",
+   "album": {
+    "id": 1339262,
+    "name": "Polar",
+    "artist": "AYLIVA",
+    "cover": "https://assets.genius.com/images/default_cover_image.png",
+    "url": "https://genius.com/albums/Ayliva/Polar",
+    "released": "2026"
+   },
+   "media": {
+    "soundcloud": "https://soundcloud.com/ayliva/wie",
+    "youtube": "https://www.youtube.com/watch?v=CLm6KSNKvAY"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 11530594,
+   "title": "Frieden",
+   "full_title": "Frieden by Kane",
+   "url": "https://genius.com/Kane-frieden-lyrics",
+   "release_date": "2025-02-28",
+   "release_date_for_display": "February 28, 2025",
+   "pageviews": 12699,
+   "primary_artist": "Kane",
+   "primary_artist_id": 3878384,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1114416,
+     "name": "Babyblue (Producer)"
+    },
+    {
+     "id": 1022177,
+     "name": "Blurry (Producer)"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 3878384,
+     "name": "Kane"
+    },
+    {
+     "id": 10165,
+     "name": "Xavier Naidoo"
+    },
+    {
+     "id": 1114416,
+     "name": "Babyblue (Producer)"
+    },
+    {
+     "id": 1022177,
+     "name": "Blurry (Producer)"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 4471383,
+     "name": "Ruben Rodriguez Alarcon"
+    },
+    {
+     "id": 1159482,
+     "name": "Michael Vajna"
+    }
+   ],
+   "art": "https://images.genius.com/786cad19c905b6ef132e233e98750607.1000x1000x1.png",
+   "album": {
+    "id": 1565473,
+    "name": "Farben",
+    "artist": "Kane",
+    "cover": "https://images.genius.com/5ffda96be823c2f11d42f0a2603eb1e8.1000x1000x1.png",
+    "url": "https://genius.com/albums/Kane/Farben",
+    "released": "February 13, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=yhML0TEmV5M"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 11616033,
+   "title": "Wie? (Cover)",
+   "full_title": "Wie? (Cover) by Giu Prince",
+   "url": "https://genius.com/Giu-prince-wie-cover-lyrics",
+   "release_date": "2025-03-16",
+   "release_date_for_display": "March 16, 2025",
+   "pageviews": null,
+   "primary_artist": "Giu Prince",
+   "primary_artist_id": 4089633,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2954833,
+     "name": "Fate"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/252436f1f0846a7e37e27532fe25944d.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=P1x3cE4Ul2k"
+   },
+   "roles": [
+    "writer"
+   ]
+  },
+  {
+   "id": 11604398,
+   "title": "THOUGHTS",
+   "full_title": "THOUGHTS by reezy",
+   "url": "https://genius.com/Reezy-thoughts-lyrics",
+   "release_date": "2025-04-04",
+   "release_date_for_display": "April 4, 2025",
+   "pageviews": null,
+   "primary_artist": "reezy",
+   "primary_artist_id": 1028151,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1028151,
+     "name": "reezy"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1028151,
+     "name": "reezy"
+    }
+   ],
+   "art": "https://images.genius.com/77f2c3328139a02ed21e8ca0d4e42c10.1000x1000x1.png",
+   "album": {
+    "id": 1318134,
+    "name": "BORN SPINNER",
+    "artist": "reezy",
+    "cover": "https://images.genius.com/18ac32cb182e7317a121910ddadfc6c2.1000x1000x1.png",
+    "url": "https://genius.com/albums/Reezy/Born-spinner",
+    "released": "August 8, 2025"
+   },
+   "media": {
+    "soundcloud": "https://soundcloud.com/reezy-music/thoughts",
+    "youtube": "https://www.youtube.com/watch?v=bdtBZD9mh1s"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 11876224,
+   "title": "Der Faktor Mensch",
+   "full_title": "Der Faktor Mensch by Bausa",
+   "url": "https://genius.com/Bausa-der-faktor-mensch-lyrics",
+   "release_date": "2025-05-22",
+   "release_date_for_display": "May 22, 2025",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/8005cce0117721f1cdbb28e0bcba9359.1000x1000x1.png",
+   "album": {
+    "id": 1360582,
+    "name": "Der Faktor Mensch",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/aa79d6a3b4c2433543feeec62c180df6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-faktor-mensch",
+    "released": "July 11, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=GlM81TmVZ1s"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 11883072,
+   "title": "MAVI",
+   "full_title": "MAVI by Eno",
+   "url": "https://genius.com/Eno-mavi-lyrics",
+   "release_date": "2025-05-23",
+   "release_date_for_display": "May 23, 2025",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 102284,
+     "name": "Vokuz"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/b2b7b591aecd832f2fdb7f4da4cec69f.1000x1000x1.png",
+   "album": {
+    "id": 1404466,
+    "name": "ENSAR ABI (EP)",
+    "artist": "Eno",
+    "cover": "https://images.genius.com/54bb7c01e3c73a8c44894e92f3f11b88.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno/Ensar-abi-ep",
+    "released": "July 25, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=Zw8Qxlhmod0"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12010541,
+   "title": "PLUS EINS",
+   "full_title": "PLUS EINS by Eno",
+   "url": "https://genius.com/Eno-plus-eins-lyrics",
+   "release_date": "2025-06-20",
+   "release_date_for_display": "June 20, 2025",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/f80715da9cf17e1bbd710e7d81b74382.1000x1000x1.png",
+   "album": {
+    "id": 1404466,
+    "name": "ENSAR ABI (EP)",
+    "artist": "Eno",
+    "cover": "https://images.genius.com/54bb7c01e3c73a8c44894e92f3f11b88.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno/Ensar-abi-ep",
+    "released": "July 25, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=3N7sxpJuzyg"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 11775182,
+   "title": "Im Wunderland",
+   "full_title": "Im Wunderland by Ellice",
+   "url": "https://genius.com/Ellice-im-wunderland-lyrics",
+   "release_date": "2025-07-04",
+   "release_date_for_display": "July 4, 2025",
+   "pageviews": null,
+   "primary_artist": "Ellice",
+   "primary_artist_id": 3533971,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 3533971,
+     "name": "Ellice"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/1dbf1bdfc40a72f8769faf845aead0c7.1000x1000x1.png",
+   "album": {
+    "id": 1384697,
+    "name": "Ellice im Wunderland",
+    "artist": "Ellice",
+    "cover": "https://images.genius.com/1dbf1bdfc40a72f8769faf845aead0c7.1000x1000x1.png",
+    "url": "https://genius.com/albums/Ellice/Ellice-im-wunderland",
+    "released": "July 4, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=VMUW0ccVtbU"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12086489,
+   "title": "DRÜCK",
+   "full_title": "DRÜCK by Eno",
+   "url": "https://genius.com/Eno-druck-lyrics",
+   "release_date": "2025-07-11",
+   "release_date_for_display": "July 11, 2025",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2927801,
+     "name": "Ryder & Seno"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 102284,
+     "name": "Vokuz"
+    },
+    {
+     "id": 3246116,
+     "name": "Siyabend Alp"
+    },
+    {
+     "id": 3246115,
+     "name": "Mehmet Emre Sen"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/c58523f57fc1a78dddf38e43ae59fe9e.1000x1000x1.png",
+   "album": {
+    "id": 1404466,
+    "name": "ENSAR ABI (EP)",
+    "artist": "Eno",
+    "cover": "https://images.genius.com/54bb7c01e3c73a8c44894e92f3f11b88.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno/Ensar-abi-ep",
+    "released": "July 25, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=iwEk1JvKTcs"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12113473,
+   "title": "Freunde werden Ratten",
+   "full_title": "Freunde werden Ratten by Bausa",
+   "url": "https://genius.com/Bausa-freunde-werden-ratten-lyrics",
+   "release_date": "2025-07-11",
+   "release_date_for_display": "July 11, 2025",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/aa79d6a3b4c2433543feeec62c180df6.1000x1000x1.png",
+   "album": {
+    "id": 1360582,
+    "name": "Der Faktor Mensch",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/aa79d6a3b4c2433543feeec62c180df6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-faktor-mensch",
+    "released": "July 11, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=AMf_FqjyxjM"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12113479,
+   "title": "Sexual Healing",
+   "full_title": "Sexual Healing by Bausa",
+   "url": "https://genius.com/Bausa-sexual-healing-lyrics",
+   "release_date": "2025-07-11",
+   "release_date_for_display": "July 11, 2025",
+   "pageviews": null,
+   "primary_artist": "Bausa",
+   "primary_artist_id": 80616,
+   "featured": [],
+   "producers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 173739,
+     "name": "Alex C."
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 173739,
+     "name": "Alex C."
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/aa79d6a3b4c2433543feeec62c180df6.1000x1000x1.png",
+   "album": {
+    "id": 1360582,
+    "name": "Der Faktor Mensch",
+    "artist": "Bausa",
+    "cover": "https://images.genius.com/aa79d6a3b4c2433543feeec62c180df6.1000x1000x1.png",
+    "url": "https://genius.com/albums/Bausa/Der-faktor-mensch",
+    "released": "July 11, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=vDJwa1NsCXM"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12183526,
+   "title": "Mann muss",
+   "full_title": "Mann muss by Apache 207",
+   "url": "https://genius.com/Apache-207-mann-muss-lyrics",
+   "release_date": "2025-07-24",
+   "release_date_for_display": "July 24, 2025",
+   "pageviews": 10033,
+   "primary_artist": "Apache 207",
+   "primary_artist_id": 1536490,
+   "featured": [],
+   "producers": [
+    {
+     "id": 39931,
+     "name": "JUMPA"
+    },
+    {
+     "id": 3353200,
+     "name": "RGB"
+    },
+    {
+     "id": 3075588,
+     "name": "2woEazy"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 85037,
+     "name": "Bozza"
+    },
+    {
+     "id": 2751454,
+     "name": "Smajl Shaqiri"
+    },
+    {
+     "id": 325590,
+     "name": "APoL"
+    },
+    {
+     "id": 39931,
+     "name": "JUMPA"
+    },
+    {
+     "id": 3353200,
+     "name": "RGB"
+    },
+    {
+     "id": 2827730,
+     "name": "WAYN (DEU)"
+    },
+    {
+     "id": 2827731,
+     "name": "B€€RLY (DEU)"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/fbdada3c5fd6fb5f0a6285b76458bfe9.1000x1000x1.png",
+   "album": {
+    "id": 1404443,
+    "name": "21 Gramm",
+    "artist": "Apache 207",
+    "cover": "https://images.genius.com/492af9349b9a6409aaa30ae1d5b7af0b.1000x1000x1.png",
+    "url": "https://genius.com/albums/Apache-207/21-gramm",
+    "released": "August 29, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=7sfvkQdiIlY"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12160314,
+   "title": "LANG GENUG",
+   "full_title": "LANG GENUG by Eno",
+   "url": "https://genius.com/Eno-lang-genug-lyrics",
+   "release_date": "2025-07-25",
+   "release_date_for_display": "July 25, 2025",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/54bb7c01e3c73a8c44894e92f3f11b88.1000x1000x1.png",
+   "album": {
+    "id": 1404466,
+    "name": "ENSAR ABI (EP)",
+    "artist": "Eno",
+    "cover": "https://images.genius.com/54bb7c01e3c73a8c44894e92f3f11b88.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno/Ensar-abi-ep",
+    "released": "July 25, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=n-3p6KZvd7g"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12248730,
+   "title": "Eintausend Farben",
+   "full_title": "Eintausend Farben by Kane",
+   "url": "https://genius.com/Kane-eintausend-farben-lyrics",
+   "release_date": "2025-08-08",
+   "release_date_for_display": "August 8, 2025",
+   "pageviews": null,
+   "primary_artist": "Kane",
+   "primary_artist_id": 3878384,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 3878384,
+     "name": "Kane"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    }
+   ],
+   "art": "https://images.genius.com/393cabb943366107c7725dc939a82795.1000x1000x1.png",
+   "album": {
+    "id": 1565473,
+    "name": "Farben",
+    "artist": "Kane",
+    "cover": "https://images.genius.com/5ffda96be823c2f11d42f0a2603eb1e8.1000x1000x1.png",
+    "url": "https://genius.com/albums/Kane/Farben",
+    "released": "February 13, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=Rq8BY-Yja8c"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12242077,
+   "title": "REWIND",
+   "full_title": "REWIND by reezy & Bausa",
+   "url": "https://genius.com/Reezy-and-bausa-rewind-lyrics",
+   "release_date": "2025-08-08",
+   "release_date_for_display": "August 8, 2025",
+   "pageviews": null,
+   "primary_artist": "reezy",
+   "primary_artist_id": 1028151,
+   "featured": [],
+   "producers": [
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1028151,
+     "name": "reezy"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    }
+   ],
+   "art": "https://images.genius.com/18ac32cb182e7317a121910ddadfc6c2.1000x1000x1.png",
+   "album": {
+    "id": 1318134,
+    "name": "BORN SPINNER",
+    "artist": "reezy",
+    "cover": "https://images.genius.com/18ac32cb182e7317a121910ddadfc6c2.1000x1000x1.png",
+    "url": "https://genius.com/albums/Reezy/Born-spinner",
+    "released": "August 8, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=bYYzsWinhuM"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 11966862,
+   "title": "SASHIMI",
+   "full_title": "SASHIMI by reezy",
+   "url": "https://genius.com/Reezy-sashimi-lyrics",
+   "release_date": "2025-08-08",
+   "release_date_for_display": "August 8, 2025",
+   "pageviews": null,
+   "primary_artist": "reezy",
+   "primary_artist_id": 1028151,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1028151,
+     "name": "reezy"
+    },
+    {
+     "id": 3732982,
+     "name": "Jazouli"
+    },
+    {
+     "id": 309601,
+     "name": "Sonus030"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1028151,
+     "name": "reezy"
+    }
+   ],
+   "art": "https://images.genius.com/18ac32cb182e7317a121910ddadfc6c2.1000x1000x1.png",
+   "album": {
+    "id": 1318134,
+    "name": "BORN SPINNER",
+    "artist": "reezy",
+    "cover": "https://images.genius.com/18ac32cb182e7317a121910ddadfc6c2.1000x1000x1.png",
+    "url": "https://genius.com/albums/Reezy/Born-spinner",
+    "released": "August 8, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=L9PsbGZFb38"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 12314207,
+   "title": "8 Uhr",
+   "full_title": "8 Uhr by Apache 207",
+   "url": "https://genius.com/Apache-207-8-uhr-lyrics",
+   "release_date": "2025-08-29",
+   "release_date_for_display": "August 29, 2025",
+   "pageviews": null,
+   "primary_artist": "Apache 207",
+   "primary_artist_id": 1536490,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 39931,
+     "name": "JUMPA"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 85037,
+     "name": "Bozza"
+    },
+    {
+     "id": 2751454,
+     "name": "Smajl Shaqiri"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 39931,
+     "name": "JUMPA"
+    }
+   ],
+   "art": "https://images.genius.com/492af9349b9a6409aaa30ae1d5b7af0b.1000x1000x1.png",
+   "album": {
+    "id": 1404443,
+    "name": "21 Gramm",
+    "artist": "Apache 207",
+    "cover": "https://images.genius.com/492af9349b9a6409aaa30ae1d5b7af0b.1000x1000x1.png",
+    "url": "https://genius.com/albums/Apache-207/21-gramm",
+    "released": "August 29, 2025"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=HULVLQXANxQ"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13058929,
+   "title": "Frieden",
+   "full_title": "Frieden by CIVAN (AUT)",
+   "url": "https://genius.com/Civan-aut-frieden-lyrics",
+   "release_date": "2025-10-09",
+   "release_date_for_display": "October 9, 2025",
+   "pageviews": null,
+   "primary_artist": "CIVAN (AUT)",
+   "primary_artist_id": 4129960,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 45192,
+     "name": "Fayzen"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 45192,
+     "name": "Fayzen"
+    },
+    {
+     "id": 4129960,
+     "name": "CIVAN (AUT)"
+    }
+   ],
+   "art": "https://images.genius.com/7ee4efcc8946c25e9a1403de5898df39.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=BpcOphk0szk"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13074622,
+   "title": "Allein",
+   "full_title": "Allein by CIVAN (AUT)",
+   "url": "https://genius.com/Civan-aut-allein-lyrics",
+   "release_date": "2025-11-06",
+   "release_date_for_display": "November 6, 2025",
+   "pageviews": null,
+   "primary_artist": "CIVAN (AUT)",
+   "primary_artist_id": 4129960,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 4129960,
+     "name": "CIVAN (AUT)"
+    }
+   ],
+   "art": "https://images.genius.com/0e868ec3e4e190164e8a0c7964e8e736.1000x1000x1.png",
+   "album": {
+    "id": 1751675,
+    "name": "NUR DU",
+    "artist": "CIVAN (AUT)",
+    "cover": "https://images.genius.com/d3028d80df7b2f26cfac85f1736f6452.1000x1000x1.png",
+    "url": "https://genius.com/albums/Civan-aut/Nur-du",
+    "released": "November 13, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=d0iFGil4H38"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13152662,
+   "title": "Allein (Piano Version)",
+   "full_title": "Allein (Piano Version) by CIVAN (AUT)",
+   "url": "https://genius.com/Civan-aut-allein-piano-version-lyrics",
+   "release_date": "2025-11-20",
+   "release_date_for_display": "November 20, 2025",
+   "pageviews": null,
+   "primary_artist": "CIVAN (AUT)",
+   "primary_artist_id": 4129960,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 4129960,
+     "name": "CIVAN (AUT)"
+    }
+   ],
+   "art": "https://images.genius.com/ce6b6551a2da06ce5c8b78c7b522e153.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=d4RrOuaebBU"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13074640,
+   "title": "Rosen",
+   "full_title": "Rosen by CIVAN (AUT)",
+   "url": "https://genius.com/Civan-aut-rosen-lyrics",
+   "release_date": "2025-12-04",
+   "release_date_for_display": "December 4, 2025",
+   "pageviews": null,
+   "primary_artist": "CIVAN (AUT)",
+   "primary_artist_id": 4129960,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 4316240,
+     "name": "Khaila (Producer)"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 4316240,
+     "name": "Khaila (Producer)"
+    },
+    {
+     "id": 4129960,
+     "name": "CIVAN (AUT)"
+    },
+    {
+     "id": 45192,
+     "name": "Fayzen"
+    }
+   ],
+   "art": "https://images.genius.com/1f1cda7469386b21dd63b2c50e93704b.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=hsMg56bRMlk"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12853858,
+   "title": "Zor",
+   "full_title": "Zor by Zeynep Bastık",
+   "url": "https://genius.com/Zeynep-bastk-zor-lyrics",
+   "release_date": "2025-12-19",
+   "release_date_for_display": "December 19, 2025",
+   "pageviews": 5760,
+   "primary_artist": "Zeynep Bastık",
+   "primary_artist_id": 1769741,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2793571,
+     "name": "Ateş (TUR)"
+    },
+    {
+     "id": 1769741,
+     "name": "Zeynep Bastık"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/44e360906d0662c016d9095ed4d36bc9.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=BsDwgqeO9R8"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12923007,
+   "title": "Demons",
+   "full_title": "Demons by KC Rebell & Samra",
+   "url": "https://genius.com/Kc-rebell-and-samra-demons-lyrics",
+   "release_date": "2026-01-09",
+   "release_date_for_display": "January 9, 2026",
+   "pageviews": null,
+   "primary_artist": "KC Rebell",
+   "primary_artist_id": 20442,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 20442,
+     "name": "KC Rebell"
+    },
+    {
+     "id": 669519,
+     "name": "Samra"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/3decea9884666ce9b025ff87e3c1c79f.1000x1000x1.png",
+   "album": {
+    "id": 1257303,
+    "name": "Daddy is Back",
+    "artist": "KC Rebell",
+    "cover": "https://images.genius.com/3decea9884666ce9b025ff87e3c1c79f.1000x1000x1.png",
+    "url": "https://genius.com/albums/Kc-rebell/Daddy-is-back",
+    "released": "January 9, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=vLhH1uLzV9E"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 12936300,
+   "title": "LOFT",
+   "full_title": "LOFT by MERO",
+   "url": "https://genius.com/Mero-loft-lyrics",
+   "release_date": "2026-01-30",
+   "release_date_for_display": "January 30, 2026",
+   "pageviews": null,
+   "primary_artist": "MERO",
+   "primary_artist_id": 1586144,
+   "featured": [],
+   "producers": [
+    {
+     "id": 398742,
+     "name": "MENJU"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1586144,
+     "name": "MERO"
+    },
+    {
+     "id": 398742,
+     "name": "MENJU"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/3b361c04c2fa6e8ff91efd5a3d999b5d.1000x1000x1.png",
+   "album": {
+    "id": 1439763,
+    "name": "ALL IN",
+    "artist": "MERO",
+    "cover": "https://images.genius.com/aaf49af44c0095bf09679a13711c5821.1000x1000x1.png",
+    "url": "https://genius.com/albums/Mero/All-in",
+    "released": "May 8, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=XxvA4G0VCZg"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13024561,
+   "title": "Renn!",
+   "full_title": "Renn! by AYLIVA",
+   "url": "https://genius.com/Ayliva-renn-lyrics",
+   "release_date": "2026-01-30",
+   "release_date_for_display": "January 30, 2026",
+   "pageviews": 100311,
+   "primary_artist": "AYLIVA",
+   "primary_artist_id": 2607953,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 2607953,
+     "name": "AYLIVA"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/ddd80f40ca53e103b19e64e865120038.1000x1000x1.png",
+   "album": {
+    "id": 1339262,
+    "name": "Polar",
+    "artist": "AYLIVA",
+    "cover": "https://assets.genius.com/images/default_cover_image.png",
+    "url": "https://genius.com/albums/Ayliva/Polar",
+    "released": "2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=IwTabKM4lyE"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13100881,
+   "title": "2 Gesichter",
+   "full_title": "2 Gesichter by Kane",
+   "url": "https://genius.com/Kane-2-gesichter-lyrics",
+   "release_date": "2026-02-13",
+   "release_date_for_display": "February 13, 2026",
+   "pageviews": null,
+   "primary_artist": "Kane",
+   "primary_artist_id": 3878384,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 3878384,
+     "name": "Kane"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/5ffda96be823c2f11d42f0a2603eb1e8.1000x1000x1.png",
+   "album": {
+    "id": 1565473,
+    "name": "Farben",
+    "artist": "Kane",
+    "cover": "https://images.genius.com/5ffda96be823c2f11d42f0a2603eb1e8.1000x1000x1.png",
+    "url": "https://genius.com/albums/Kane/Farben",
+    "released": "February 13, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=DvU0mlWJwbQ"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13152390,
+   "title": "Wie Du Bist",
+   "full_title": "Wie Du Bist by CIVAN (AUT)",
+   "url": "https://genius.com/Civan-aut-wie-du-bist-lyrics",
+   "release_date": "2026-02-19",
+   "release_date_for_display": "February 19, 2026",
+   "pageviews": null,
+   "primary_artist": "CIVAN (AUT)",
+   "primary_artist_id": 4129960,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 4129960,
+     "name": "CIVAN (AUT)"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 4316240,
+     "name": "Khaila (Producer)"
+    },
+    {
+     "id": 4798556,
+     "name": "marlonjayprod"
+    }
+   ],
+   "art": "https://images.genius.com/20962754ece2fed3cef1aa78405ee82b.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=HFKC-aGavXA"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13154241,
+   "title": "mein cutie ˂3",
+   "full_title": "mein cutie ˂3 by YUNG SAINT PAUL",
+   "url": "https://genius.com/Yung-saint-paul-mein-cutie-3-lyrics",
+   "release_date": "2026-02-20",
+   "release_date_for_display": "February 20, 2026",
+   "pageviews": 5964,
+   "primary_artist": "YUNG SAINT PAUL",
+   "primary_artist_id": 1500865,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1500865,
+     "name": "YUNG SAINT PAUL"
+    }
+   ],
+   "art": "https://images.genius.com/8a6ccf29d34eca319e32c65618dd53a1.1000x1000x1.png",
+   "album": {
+    "id": 1693572,
+    "name": "DRAUSSEN ZUHAUSE",
+    "artist": "YUNG SAINT PAUL",
+    "cover": "https://images.genius.com/f5fc428e7edd45c279a6c7292e866032.1000x1000x1.png",
+    "url": "https://genius.com/albums/Yung-saint-paul/Draussen-zuhause",
+    "released": "October 9, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=zfVCNwZgmlg"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 13308421,
+   "title": "Wie Viel",
+   "full_title": "Wie Viel by CIVAN (AUT)",
+   "url": "https://genius.com/Civan-aut-wie-viel-lyrics",
+   "release_date": "2026-03-27",
+   "release_date_for_display": "March 27, 2026",
+   "pageviews": null,
+   "primary_artist": "CIVAN (AUT)",
+   "primary_artist_id": 4129960,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [],
+   "art": "https://images.genius.com/a74cfacc60613be131e5555ebbde9f46.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=-pv8SaN1Gow"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 13341914,
+   "title": "GEIST",
+   "full_title": "GEIST by Eno & Gökhan Abi",
+   "url": "https://genius.com/Eno-and-gokhan-abi-geist-lyrics",
+   "release_date": "2026-04-24",
+   "release_date_for_display": "April 24, 2026",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1595729,
+     "name": "Iceberg"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 361046,
+     "name": "Eno"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1062099,
+     "name": "Gökhan Abi"
+    }
+   ],
+   "art": "https://images.genius.com/4397f398554387bcbd3d4a8cf7196f89.1000x1000x1.png",
+   "album": {
+    "id": 1618327,
+    "name": "HÖR AM STÜCK (EP)",
+    "artist": "Eno & Gökhan Abi",
+    "cover": "https://images.genius.com/646b12e9749ea965148c3afcbe4e4128.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno-and-gokhan-abi/Hor-am-stuck-ep",
+    "released": "April 24, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=UsauFiZUeMI"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13444918,
+   "title": "HÖR AM STÜCK",
+   "full_title": "HÖR AM STÜCK by Eno & Gökhan Abi",
+   "url": "https://genius.com/Eno-and-gokhan-abi-hor-am-stuck-lyrics",
+   "release_date": "2026-04-24",
+   "release_date_for_display": "April 24, 2026",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 4853987,
+     "name": "Matthias Raue"
+    },
+    {
+     "id": 1595729,
+     "name": "Iceberg"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 361046,
+     "name": "Eno"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 1062099,
+     "name": "Gökhan Abi"
+    },
+    {
+     "id": 4853987,
+     "name": "Matthias Raue"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/646b12e9749ea965148c3afcbe4e4128.1000x1000x1.png",
+   "album": {
+    "id": 1618327,
+    "name": "HÖR AM STÜCK (EP)",
+    "artist": "Eno & Gökhan Abi",
+    "cover": "https://images.genius.com/646b12e9749ea965148c3afcbe4e4128.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno-and-gokhan-abi/Hor-am-stuck-ep",
+    "released": "April 24, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=6u6OyruovzU"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13341915,
+   "title": "NUR GOTT WEISS",
+   "full_title": "NUR GOTT WEISS by Eno & Gökhan Abi",
+   "url": "https://genius.com/Eno-and-gokhan-abi-nur-gott-weiss-lyrics",
+   "release_date": "2026-04-24",
+   "release_date_for_display": "April 24, 2026",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1062099,
+     "name": "Gökhan Abi"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 1062099,
+     "name": "Gökhan Abi"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/646b12e9749ea965148c3afcbe4e4128.1000x1000x1.png",
+   "album": {
+    "id": 1618327,
+    "name": "HÖR AM STÜCK (EP)",
+    "artist": "Eno & Gökhan Abi",
+    "cover": "https://images.genius.com/646b12e9749ea965148c3afcbe4e4128.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno-and-gokhan-abi/Hor-am-stuck-ep",
+    "released": "April 24, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=b_fElFez5ys"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13341910,
+   "title": "WINDOW SHOPPER",
+   "full_title": "WINDOW SHOPPER by Eno & Gökhan Abi",
+   "url": "https://genius.com/Eno-and-gokhan-abi-window-shopper-lyrics",
+   "release_date": "2026-04-24",
+   "release_date_for_display": "April 24, 2026",
+   "pageviews": null,
+   "primary_artist": "Eno",
+   "primary_artist_id": 361046,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1062099,
+     "name": "Gökhan Abi"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1062099,
+     "name": "Gökhan Abi"
+    }
+   ],
+   "art": "https://images.genius.com/646b12e9749ea965148c3afcbe4e4128.1000x1000x1.png",
+   "album": {
+    "id": 1618327,
+    "name": "HÖR AM STÜCK (EP)",
+    "artist": "Eno & Gökhan Abi",
+    "cover": "https://images.genius.com/646b12e9749ea965148c3afcbe4e4128.1000x1000x1.png",
+    "url": "https://genius.com/albums/Eno-and-gokhan-abi/Hor-am-stuck-ep",
+    "released": "April 24, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=TK-MlZzQ3Pc"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 13519978,
+   "title": "Franklin Saint",
+   "full_title": "Franklin Saint by Pozer",
+   "url": "https://genius.com/Pozer-franklin-saint-lyrics",
+   "release_date": "2026-05-29",
+   "release_date_for_display": "May 29, 2026",
+   "pageviews": null,
+   "primary_artist": "Pozer",
+   "primary_artist_id": 3813418,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1231315,
+     "name": "Ra Tha Gawd"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 3813418,
+     "name": "Pozer"
+    }
+   ],
+   "art": "https://images.genius.com/21246a514836d8faf1a29b1fac0d3cc8.1000x1000x1.png",
+   "album": {
+    "id": 1645416,
+    "name": "Crossroads",
+    "artist": "Pozer",
+    "cover": "https://images.genius.com/21246a514836d8faf1a29b1fac0d3cc8.1000x1000x1.png",
+    "url": "https://genius.com/albums/Pozer/Crossroads",
+    "released": "May 29, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=-KF-Hx-_CVA"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 13658346,
+   "title": "Planet",
+   "full_title": "Planet by Berky & Eno",
+   "url": "https://genius.com/Berky-and-eno-planet-lyrics",
+   "release_date": "2026-06-12",
+   "release_date_for_display": "June 12, 2026",
+   "pageviews": null,
+   "primary_artist": "Berky",
+   "primary_artist_id": 2521513,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2230568,
+     "name": "Lucas G"
+    },
+    {
+     "id": 2341025,
+     "name": "Eest"
+    }
+   ],
+   "writers": [
+    {
+     "id": 361046,
+     "name": "Eno"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 2230568,
+     "name": "Lucas G"
+    },
+    {
+     "id": 2341025,
+     "name": "Eest"
+    }
+   ],
+   "art": "https://images.genius.com/1f663e1c16d755cb00c945ba6023a961.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=d9CawyqnPPc"
+   },
+   "roles": [
+    "producer",
+    "writer",
+    "primary artist"
+   ]
+  },
+  {
+   "id": 13788006,
+   "title": "Hard Liquor",
+   "full_title": "Hard Liquor by Chase Matthew & Waka Flocka Flame",
+   "url": "https://genius.com/Chase-matthew-and-waka-flocka-flame-hard-liquor-lyrics",
+   "release_date": "2026-06-26",
+   "release_date_for_display": "June 26, 2026",
+   "pageviews": null,
+   "primary_artist": "Chase Matthew",
+   "primary_artist_id": 1969016,
+   "featured": [],
+   "producers": [
+    {
+     "id": 1525149,
+     "name": "Austin Shawn"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1969016,
+     "name": "Chase Matthew"
+    },
+    {
+     "id": 257,
+     "name": "Waka Flocka Flame"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 1408870,
+     "name": "David Ray"
+    },
+    {
+     "id": 1603263,
+     "name": "Jackson Nance"
+    },
+    {
+     "id": 1610661,
+     "name": "Michael Whitworth"
+    },
+    {
+     "id": 3965784,
+     "name": "Will Power 912"
+    }
+   ],
+   "art": "https://images.genius.com/126cb8ec5f727cecb1b6fb0d0308b639.640x640x1.jpg",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=aAhx2Ss_yh4"
+   },
+   "roles": [
+    "writer"
+   ]
+  },
+  {
+   "id": 14145759,
+   "title": "Chaos",
+   "full_title": "Chaos by Apache 207",
+   "url": "https://genius.com/Apache-207-chaos-lyrics",
+   "release_date": "2026-08-26",
+   "release_date_for_display": "August 26, 2026",
+   "pageviews": 14801,
+   "primary_artist": "Apache 207",
+   "primary_artist_id": 1536490,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    }
+   ],
+   "art": "https://images.genius.com/bb6c4ac0ea345eaf52c23aeb4758aeb6.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=NWtJl8qpMYA"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 14130635,
+   "title": "Hentai",
+   "full_title": "Hentai by Yc (DEU)",
+   "url": "https://genius.com/Yc-deu-hentai-lyrics",
+   "release_date": "2026-08-27",
+   "release_date_for_display": "August 27, 2026",
+   "pageviews": null,
+   "primary_artist": "Yc (DEU)",
+   "primary_artist_id": 3829720,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 3829720,
+     "name": "Yc (DEU)"
+    }
+   ],
+   "art": "https://images.genius.com/32bf0b24f94895411db9a6cdbecc1f94.1000x1000x1.png",
+   "album": null,
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=rCy-f8hlczI"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 14226946,
+   "title": "Hände hoch",
+   "full_title": "Hände hoch by YUNG SAINT PAUL & Bausa",
+   "url": "https://genius.com/Yung-saint-paul-and-bausa-hande-hoch-lyrics",
+   "release_date": "2026-09-18",
+   "release_date_for_display": "September 18, 2026",
+   "pageviews": null,
+   "primary_artist": "YUNG SAINT PAUL",
+   "primary_artist_id": 1500865,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 30991,
+     "name": "Testo"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1500865,
+     "name": "YUNG SAINT PAUL"
+    },
+    {
+     "id": 80616,
+     "name": "Bausa"
+    },
+    {
+     "id": 17971,
+     "name": "Emory"
+    },
+    {
+     "id": 14238,
+     "name": "Kay One"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    },
+    {
+     "id": 30991,
+     "name": "Testo"
+    },
+    {
+     "id": 32426,
+     "name": "Beatzarre"
+    },
+    {
+     "id": 32425,
+     "name": "Djorkaeff"
+    }
+   ],
+   "art": "https://images.genius.com/c194edcbce59d912f01a1e96d8f0029c.1000x1000x1.png",
+   "album": {
+    "id": 1693572,
+    "name": "DRAUSSEN ZUHAUSE",
+    "artist": "YUNG SAINT PAUL",
+    "cover": "https://images.genius.com/f5fc428e7edd45c279a6c7292e866032.1000x1000x1.png",
+    "url": "https://genius.com/albums/Yung-saint-paul/Draussen-zuhause",
+    "released": "October 9, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=VG-5jLRteeM"
+   },
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 14348208,
+   "title": "Mein Type",
+   "full_title": "Mein Type by YUNG SAINT PAUL & Josi",
+   "url": "https://genius.com/Yung-saint-paul-and-josi-mein-type-lyrics",
+   "release_date": "2026-10-02",
+   "release_date_for_display": "October 2, 2026",
+   "pageviews": null,
+   "primary_artist": "YUNG SAINT PAUL",
+   "primary_artist_id": 1500865,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1500865,
+     "name": "YUNG SAINT PAUL"
+    },
+    {
+     "id": 2080901,
+     "name": "Josi"
+    }
+   ],
+   "art": "https://images.genius.com/f5fc428e7edd45c279a6c7292e866032.1000x1000x1.png",
+   "album": {
+    "id": 1693572,
+    "name": "DRAUSSEN ZUHAUSE",
+    "artist": "YUNG SAINT PAUL",
+    "cover": "https://images.genius.com/f5fc428e7edd45c279a6c7292e866032.1000x1000x1.png",
+    "url": "https://genius.com/albums/Yung-saint-paul/Draussen-zuhause",
+    "released": "October 9, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=naf1bSiBRAQ"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 14348207,
+   "title": "San Remo",
+   "full_title": "San Remo by YUNG SAINT PAUL",
+   "url": "https://genius.com/Yung-saint-paul-san-remo-lyrics",
+   "release_date": "2026-10-09",
+   "release_date_for_display": "October 9, 2026",
+   "pageviews": null,
+   "primary_artist": "YUNG SAINT PAUL",
+   "primary_artist_id": 1500865,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [],
+   "art": "https://images.genius.com/f5fc428e7edd45c279a6c7292e866032.1000x1000x1.png",
+   "album": {
+    "id": 1693572,
+    "name": "DRAUSSEN ZUHAUSE",
+    "artist": "YUNG SAINT PAUL",
+    "cover": "https://images.genius.com/f5fc428e7edd45c279a6c7292e866032.1000x1000x1.png",
+    "url": "https://genius.com/albums/Yung-saint-paul/Draussen-zuhause",
+    "released": "October 9, 2026"
+   },
+   "media": {
+    "youtube": "https://www.youtube.com/watch?v=ckiX3bgV9BQ"
+   },
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 8406767,
+   "title": "800 Pferde",
+   "full_title": "800 Pferde by Apache 207",
+   "url": "https://genius.com/Apache-207-800-pferde-lyrics",
+   "release_date": null,
+   "release_date_for_display": null,
+   "pageviews": null,
+   "primary_artist": "Apache 207",
+   "primary_artist_id": 1536490,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1536490,
+     "name": "Apache 207"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/b7f1e5ac0b66a0f0fb806562e57d7e7d.1000x1000x1.jpg",
+   "album": null,
+   "media": {},
+   "roles": [
+    "producer",
+    "writer"
+   ]
+  },
+  {
+   "id": 11702893,
+   "title": "Bro",
+   "full_title": "Bro by Bonez MC & Berky",
+   "url": "https://genius.com/Bonez-mc-and-berky-bro-lyrics",
+   "release_date": null,
+   "release_date_for_display": null,
+   "pageviews": null,
+   "primary_artist": "Bonez MC",
+   "primary_artist_id": 18537,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [],
+   "art": "https://images.genius.com/815fd312c14160b8404cb26de4e6c4eb.1000x1000x1.jpg",
+   "album": null,
+   "media": {},
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 9876777,
+   "title": "Galen*",
+   "full_title": "Galen* by Yasin",
+   "url": "https://genius.com/Yasin-galen-lyrics",
+   "release_date": null,
+   "release_date_for_display": null,
+   "pageviews": null,
+   "primary_artist": "Yasin",
+   "primary_artist_id": 1436896,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1436896,
+     "name": "Yasin"
+    }
+   ],
+   "art": "https://images.genius.com/f485a62d182a626f35bb701210bdf9db.1000x1000x1.jpg",
+   "album": null,
+   "media": {},
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 11407952,
+   "title": "Ich lass dich los",
+   "full_title": "Ich lass dich los by AYLIVA",
+   "url": "https://genius.com/Ayliva-ich-lass-dich-los-lyrics",
+   "release_date": null,
+   "release_date_for_display": null,
+   "pageviews": null,
+   "primary_artist": "AYLIVA",
+   "primary_artist_id": 2607953,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [],
+   "art": "https://images.genius.com/36b2e52af865b3e4a68067a024fdcd9c.1000x1000x1.png",
+   "album": null,
+   "media": {},
+   "roles": [
+    "producer"
+   ]
+  },
+  {
+   "id": 11953123,
+   "title": "Move Like Water",
+   "full_title": "Move Like Water by Berky & Donel",
+   "url": "https://genius.com/Berky-and-donel-move-like-water-lyrics",
+   "release_date": null,
+   "release_date_for_display": null,
+   "pageviews": null,
+   "primary_artist": "Berky",
+   "primary_artist_id": 2521513,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 1553714,
+     "name": "Donel"
+    },
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "art": "https://images.genius.com/af3bd7385afc51c54f03e7521b6c1756.1000x1000x1.png",
+   "album": null,
+   "media": {},
+   "roles": [
+    "producer",
+    "writer",
+    "primary artist"
+   ]
+  },
+  {
+   "id": 9203033,
+   "title": "Vom Winde verweht*",
+   "full_title": "Vom Winde verweht* by RIN",
+   "url": "https://genius.com/Rin-vom-winde-verweht-lyrics",
+   "release_date": null,
+   "release_date_for_display": null,
+   "pageviews": null,
+   "primary_artist": "RIN",
+   "primary_artist_id": 51819,
+   "featured": [],
+   "producers": [
+    {
+     "id": 2521513,
+     "name": "Berky"
+    }
+   ],
+   "writers": [
+    {
+     "id": 51819,
+     "name": "RIN"
+    }
+   ],
+   "art": "https://images.genius.com/59230f6aeedd32f87aefbc52362d1beb.1000x1000x1.jpg",
+   "album": null,
+   "media": {},
+   "roles": [
+    "producer"
+   ]
+  }
+ ],
+ "collaborators": [
+  [
+   "Bausa",
+   21
+  ],
+  [
+   "TheDoDo",
+   19
+  ],
+  [
+   "Eno",
+   11
+  ],
+  [
+   "Apache 207",
+   10
+  ],
+  [
+   "AYLIVA",
+   10
+  ],
+  [
+   "Ski Aggu",
+   7
+  ],
+  [
+   "CIVAN (AUT)",
+   6
+  ],
+  [
+   "YUNG SAINT PAUL",
+   4
+  ],
+  [
+   "reezy",
+   4
+  ],
+  [
+   "Dardan",
+   4
+  ],
+  [
+   "Monet192",
+   4
+  ],
+  [
+   "Kane",
+   3
+  ],
+  [
+   "Pajel",
+   3
+  ],
+  [
+   "MERO",
+   2
+  ],
+  [
+   "Hava",
+   2
+  ],
+  [
+   "01099",
+   2
+  ],
+  [
+   "Zartmann",
+   2
+  ],
+  [
+   "Lil Zey",
+   2
+  ],
+  [
+   "Yc (DEU)",
+   1
+  ],
+  [
+   "Chase Matthew",
+   1
+  ],
+  [
+   "Pozer",
+   1
+  ],
+  [
+   "KC Rebell",
+   1
+  ],
+  [
+   "Zeynep Bastık",
+   1
+  ],
+  [
+   "Ellice",
+   1
+  ],
+  [
+   "Giu Prince",
+   1
+  ],
+  [
+   "Mike Singer",
+   1
+  ],
+  [
+   "万妮达 (Vinida Weng)",
+   1
+  ],
+  [
+   "Jazeek",
+   1
+  ],
+  [
+   "Sampagne",
+   1
+  ],
+  [
+   "Sasan",
+   1
+  ],
+  [
+   "AK AUSSERKONTROLLE",
+   1
+  ],
+  [
+   "DJ JEEZY",
+   1
+  ],
+  [
+   "FOURTY",
+   1
+  ],
+  [
+   "Faroon",
+   1
+  ],
+  [
+   "RIN",
+   1
+  ],
+  [
+   "Yasin",
+   1
+  ],
+  [
+   "Bonez MC",
+   1
+  ]
+ ],
+ "listed_without_role": []
+}
