@@ -8,14 +8,15 @@ import { StatsDashboard } from './components/StatsDashboard'
 import './App.css'
 
 function App() {
-  const archivePage = window.location.pathname.replace(/\/$/, '') === '/archive'
+  const basePath = import.meta.env.BASE_URL.replace(/\/$/, '')
+  const archivePage = window.location.pathname.replace(/\/$/, '') === `${basePath}/archive`
 
   return (
     <>
       {archivePage ? (
         <>
           <nav className="site-navigation site-navigation--archive" aria-label="Site navigation">
-            <a href="/">← Home</a>
+            <a href={`${basePath}/`}>← Home</a>
             <span>Berky / Archive</span>
           </nav>
           <main>

@@ -10,8 +10,8 @@ export function Hero() {
         className="hero-reel"
         eager
         label="Berky visual reel"
-        poster="/media/hero-reel-poster.webp"
-        src="/media/hero-reel.mp4"
+        poster={`${import.meta.env.BASE_URL}media/hero-reel-poster.webp`}
+        src={`${import.meta.env.BASE_URL}media/hero-reel.mp4`}
       />
       <div className="archive-hero__shade" aria-hidden="true" />
       <ScrollCue />

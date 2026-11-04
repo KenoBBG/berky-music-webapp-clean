@@ -52,8 +52,8 @@ export function AboutBerky() {
         </div>
         <AmbientVideo
           label="Berky playing piano"
-          poster="/media/piano-film-poster.webp"
-          src="/media/piano-film.mp4"
+          poster={`${import.meta.env.BASE_URL}media/piano-film-poster.webp`}
+          src={`${import.meta.env.BASE_URL}media/piano-film.mp4`}
         />
       </section>
 

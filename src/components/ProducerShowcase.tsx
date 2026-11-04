@@ -21,7 +21,7 @@ export function ProducerShowcase() {
         {songs.map((song, index) => (
           <li className={index === 0 ? 'producer-showcase__item producer-showcase__item--lead' : 'producer-showcase__item'} key={song.id}>
             <a href={song.url} target="_blank" rel="noreferrer" aria-label={`${song.title} by ${song.primary_artist}, Berky producer credit on Genius`}>
-              <img src={`/media/song-covers/${song.id}.jpg`} alt="" loading={index === 0 ? 'eager' : 'lazy'} />
+              <img src={`${import.meta.env.BASE_URL}media/song-covers/${song.id}.jpg`} alt="" loading={index === 0 ? 'eager' : 'lazy'} />
               <span className="producer-showcase__number">{String(index + 1).padStart(2, '0')}</span>
               <span className="producer-showcase__copy">
                 <span className="producer-showcase__artist">{song.full_title.split(' by\u00a0')[1]?.replaceAll('\u00a0', ' ') ?? song.primary_artist}</span>
@@ -33,7 +33,7 @@ export function ProducerShowcase() {
           </li>
         ))}
       </ol>
-      <a className="producer-showcase__archive-link" href="/archive">Explore the full release archive <span aria-hidden="true">↗</span></a>
+      <a className="producer-showcase__archive-link" href={`${import.meta.env.BASE_URL}archive`}>Explore the full release archive <span aria-hidden="true">↗</span></a>
     </section>
   )
 }
